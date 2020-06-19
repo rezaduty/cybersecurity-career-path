@@ -1,4 +1,4 @@
-![ROADMAP](all.jpeg)
+![ROADMAP](all.png)
 
 Security Career Path ⬆️
 
