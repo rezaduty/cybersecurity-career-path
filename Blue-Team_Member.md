@@ -1,5 +1,5 @@
 # Summary
-As a member of our Infrastructure & Information Security pod, you will support our cloud infrastructure by developing tools, building services, and providing consultative services to our engineering teams. You will be a key part in safeguarding our creators who entrust Teachable with their content every day. You’ll plan and carry out security measures to monitor and protect sensitive data and systems from infiltration and cyber-attacks.
+The ideal team member will have extensive experience in more than one of the following security testing domains: Network/Application, Web Application, Mobile Application, and Operating System. This candidate must be driven, a stellar communicator, enthusiastic and have the desire to stay ahead of today’s emerging threats and actor techniques.
 
 # Hard Skills
 * Minimum 2 years of Cyber Security experience 
