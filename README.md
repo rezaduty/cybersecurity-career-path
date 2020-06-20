@@ -21,6 +21,8 @@ Cybersecurity Career Path ⬆️
 
 * [Mobile Application Security](https://github.com/rezaduty/security-career-path/blob/master/Mobile_Application_Security.md)
 * [Source Code Auditor](https://github.com/rezaduty/security-career-path/blob/master/Source_Code_Auditor.md)
+* [Application Security Expert](https://github.com/rezaduty/security-career-path/blob/master/Application_Security_Expert.md)
+
 
 
 
