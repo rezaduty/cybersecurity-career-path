@@ -34,4 +34,5 @@ Cybersecurity Career Path ⬆️
 ## Officer
 
 * [Data Privacy Officer](https://github.com/rezaduty/security-career-path/blob/master/Data_Privacy_Officer.md)
+* [Chief Information Security Officer](https://github.com/rezaduty/security-career-path/blob/master/Chief_Information_Security_Officer.md)
 
