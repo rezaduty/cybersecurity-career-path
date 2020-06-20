@@ -9,7 +9,7 @@ The CISO will serve as the process owner of all assurance activities related to 
 * Cooperate with the IT, Operations, and Legal teams on security-related issues, including compliance and internal security
 * Serve as a hub of knowledge for developers, infrastructure engineers, and operation staff, and security engineers.
 * Initiate and own needle-moving projects, like adding new security features to the company's products
-* Improve Yotpo's security resilience (data, people, technology, and services)
+* Improve Company security resilience (data, people, technology, and services)
 * Lead employee security awareness through educational campaigns
 * Approve identity and access policies
 * Familiarity with the following regulations and certifications: SOC2, GDPR, IEC, COBIT, ITIL ISO 27001
