@@ -12,4 +12,5 @@ Security Career Path ⬆️
 * [Application Penetration Tester](https://github.com/rezaduty/security-career-path/blob/master/Application_Penetration_Tester.md)
 * [Bug Bounty Hunter](https://github.com/rezaduty/security-career-path/blob/master/Bug_Bounty_Hunter.md)
 * [Red Team Member](https://github.com/rezaduty/security-career-path/blob/master/Red-Team-Member.md)
+* [Exploit Developer](https://github.com/rezaduty/security-career-path/blob/master/Exploit_Developer.md)
 * [Security Engineer](https://github.com/rezaduty/security-career-path/blob/master/Security_Engineer.md)
