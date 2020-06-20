@@ -29,7 +29,7 @@ Cybersecurity Career Path ⬆️
 * [Malware Analyst](https://github.com/rezaduty/security-career-path/blob/master/Malware_Analyst.md)
 * [Incident Responder](https://github.com/rezaduty/security-career-path/blob/master/Incident_Responder.md)
 * [Digital Forensic Analyst](https://github.com/rezaduty/security-career-path/blob/master/Digital_Forensic_Analyst.md)
-
+* [SCADA Security Specialist](https://github.com/rezaduty/security-career-path/blob/master/SCADA_Security_Specialist.md)
 
 
 
