@@ -1,5 +1,5 @@
 # Summary
-The CISO will serve as the process owner of all assurance activities related to the availability, integrity, and confidentiality of business partner, employee, and business applications in compliance with the Yotpo's information security policies.
+The CISO will serve as the process owner of all assurance activities related to the availability, integrity, and confidentiality of business partner, employee, and business applications in compliance with the Company information security policies.
 
 # Hard Skills
 * Develop, implement and monitor strategic security risk programs
