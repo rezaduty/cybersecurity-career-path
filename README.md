@@ -25,6 +25,7 @@ Cybersecurity Career Path ⬆️
 
 * [Security Researcher](https://github.com/rezaduty/cybersecurity-career-path/blob/master/Security_Researcher.md)
 * [Cyber Threat Analyst](https://github.com/rezaduty/cybersecurity-career-path/blob/master/Cyber_Threat_Analyst.md)
+* [Cyber Operation Systems Research Engineer](https://github.com/rezaduty/cybersecurity-career-path/blob/master/Cyber_Operation_Systems_Research_Engineer.md)
 
 
 ## Engineer
