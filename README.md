@@ -1,6 +1,6 @@
 ![ROADMAP](allv1.png)
 
-Security Career Path ⬆️
+Cybersecurity Career Path ⬆️
 
 ⚠️ Not Include Responsibilities
 
