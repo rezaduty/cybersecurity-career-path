@@ -25,6 +25,7 @@ A penetration test, colloquially known as a pen test, pentest or ethical hacking
 
 
 # Certification
+  * CEH
   * eJPT
   * OSCP
 
