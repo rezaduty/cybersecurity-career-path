@@ -27,7 +27,7 @@ Information systems security engineers (ISSE), help businesses keep sensitive da
 
 
 # Certification
-  * CISSP
+  * 
 
 
 # Job Salary
