@@ -28,6 +28,7 @@ Cybersecurity Career Path ⬆️
 ## Engineer
 
 * [Security Engineer(Software)](https://github.com/rezaduty/security-career-path/blob/master/Security_Engineer(Software).md)
+* [Security Engineer(Hardware)](https://github.com/rezaduty/security-career-path/blob/master/Security_Engineer(Hardware).md)
 
 ## Officer
 
