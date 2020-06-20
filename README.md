@@ -25,6 +25,7 @@ Cybersecurity Career Path ⬆️
 * [Threat Hunter](https://github.com/rezaduty/security-career-path/blob/master/Threat_Hunter.md)
 * [Blue Team Member](https://github.com/rezaduty/security-career-path/blob/master/Blue-Team_Member.md)
 * [Security Operation Center](https://github.com/rezaduty/security-career-path/blob/master/Security_Operation_Center.md)
+* [Cyber Threat Analyst](https://github.com/rezaduty/security-career-path/blob/master/Cyber_Threat_Analyst.md)
 
 
 
