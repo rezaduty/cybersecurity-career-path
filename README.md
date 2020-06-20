@@ -15,7 +15,7 @@ Cybersecurity Career Path ⬆️
 * [Bug Bounty Hunter](https://github.com/rezaduty/security-career-path/blob/master/Bug_Bounty_Hunter.md)
 * [Red Team Member](https://github.com/rezaduty/security-career-path/blob/master/Red-Team-Member.md)
 * [Exploit Developer](https://github.com/rezaduty/security-career-path/blob/master/Exploit_Developer.md)
-* [Security Engineer](https://github.com/rezaduty/security-career-path/blob/master/Security_Engineer.md)
+
 
 ## Defensive
 
@@ -27,7 +27,7 @@ Cybersecurity Career Path ⬆️
 
 ## Engineer
 
-* 
+* [Security Engineer(Software)](https://github.com/rezaduty/security-career-path/blob/master/Security_Engineer.md)
 
 ## Officer
 
