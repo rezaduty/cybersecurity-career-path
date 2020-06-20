@@ -27,6 +27,7 @@ Cybersecurity Career Path ⬆️
 * [Security Operation Center](https://github.com/rezaduty/security-career-path/blob/master/Security_Operation_Center.md)
 * [Cyber Threat Analyst](https://github.com/rezaduty/security-career-path/blob/master/Cyber_Threat_Analyst.md)
 * [Malware Analyst](https://github.com/rezaduty/security-career-path/blob/master/Malware_Analyst.md)
+* [Incident Responder](https://github.com/rezaduty/security-career-path/blob/master/Incident_Responder.md)
 
 
 
