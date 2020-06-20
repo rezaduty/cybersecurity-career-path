@@ -28,6 +28,7 @@ Cybersecurity Career Path ⬆️
 * [Cyber Threat Analyst](https://github.com/rezaduty/security-career-path/blob/master/Cyber_Threat_Analyst.md)
 * [Malware Analyst](https://github.com/rezaduty/security-career-path/blob/master/Malware_Analyst.md)
 * [Incident Responder](https://github.com/rezaduty/security-career-path/blob/master/Incident_Responder.md)
+* [Digital Forensic Analyst](https://github.com/rezaduty/security-career-path/blob/master/Digital_Forensic_Analyst.md)
 
 
 
