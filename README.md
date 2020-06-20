@@ -23,7 +23,8 @@ Cybersecurity Career Path ⬆️
 
 ## Researcher
 
-* 
+* [Security Researcher](https://github.com/rezaduty/cybersecurity-career-path/blob/master/Security_Researcher.md)
+
 
 ## Engineer
 
