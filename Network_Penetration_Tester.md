@@ -31,7 +31,7 @@ A penetration test, colloquially known as a pen test, pentest or ethical hacking
 
 
 # Job Salary
-$65K <= $81K <= $111K
+$45K <= $69K <= $102K
 
 
 # Interview Questions
