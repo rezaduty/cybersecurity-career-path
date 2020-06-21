@@ -26,7 +26,9 @@ The ideal team member will have extensive experience in more than one of the fol
 
 
 # Certification
-  * 
+  * SEC505
+  * SEC506
+  * SEC566
 
 
 # Job Salary
