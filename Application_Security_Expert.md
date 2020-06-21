@@ -32,7 +32,7 @@ As a member of our Infrastructure & Information Security pod, you will support o
 
 
 # Certification
-  * 
+  * CSSLP
 
 
 # Job Salary
