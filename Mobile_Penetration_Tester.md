@@ -31,11 +31,11 @@ Mobile application penetration testing allows organizations the ability to weed 
 
 
 # Job Salary
-$65K <= $81K <= $111K
+$45K <= $69K <= $102K
 
 
 # Interview Questions
- *
+ * https://www.guru99.com/mobile-testing-interview-questions.html
 
 
 # Training Resources
