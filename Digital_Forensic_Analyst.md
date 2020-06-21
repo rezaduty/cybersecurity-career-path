@@ -29,7 +29,9 @@ The Digital Forensics Analyst/Investigator performs a variety of highly technica
 
 
 # Certification
-  * 
+  * FOR500
+  * FOR572
+  * FOR585
 
 
 # Job Salary
