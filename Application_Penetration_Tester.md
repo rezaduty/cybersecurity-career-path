@@ -34,12 +34,13 @@ A penetration test, colloquially known as a pen test, pentest or ethical hacking
 
 
 # Job Salary
-$65K <= $81K <= $111K
+$104K <= $120K <= $138K
 
 
 # Interview Questions
  * https://www.synopsys.com/blogs/software-security/web-appsec-interview-questions/
  * https://www.guru99.com/mobile-testing-interview-questions.html
+ * https://compsecurityconcepts.wordpress.com/2016/02/19/network-penetration-testing-interview-questions-answers/
 
 
 # Training Resources
