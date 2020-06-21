@@ -25,7 +25,10 @@ This role is a technical, hands-on role, and the successful candidate will suppo
 
 
 # Certification
-  * 
+  * SEC460
+  * SEC599
+  * FOR508
+  * FOR578
 
 
 # Job Salary
