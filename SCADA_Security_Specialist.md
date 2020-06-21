@@ -33,7 +33,9 @@
 
 
 # Certification
-  * 
+  * ICS410
+  * ICS515
+  * ICS465
 
 
 # Job Salary
