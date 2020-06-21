@@ -27,7 +27,8 @@ As a member of our Infrastructure & Information Security pod, you will support o
 
 
 # Certification
-  * 
+  * SEC511
+  * SEC555
 
 
 # Job Salary
