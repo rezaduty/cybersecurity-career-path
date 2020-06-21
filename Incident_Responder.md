@@ -30,7 +30,9 @@ Performs forensic analysis of digital information and gathers and handles eviden
 
 
 # Certification
-  * 
+  * FOR508
+  * SEC504
+  * eCIR
 
 
 # Job Salary
