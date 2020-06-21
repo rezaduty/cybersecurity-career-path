@@ -31,7 +31,7 @@ You will hunt for cyber threats in our networks using our suite of cyber tools. 
 
 
 # Certification
-  * 
+  * eCTHP
 
 
 # Job Salary
