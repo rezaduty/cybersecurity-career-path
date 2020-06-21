@@ -21,7 +21,13 @@ Source code auditors expose vulnerabilities and prevent potential security threa
 
 
 # Certification
-  * 
+  * CSSLP
+  * Secure Coding in Java(ISC2)
+  * Secure Coding in .NET(ISC2)
+  * Secure Coding in PHP(ISC2)
+  * SEC534
+  * DEV541
+  * DEV544
 
 
 # Job Salary
@@ -29,7 +35,7 @@ $50K <= $65K <= $90K
 
 
 # Interview Questions
- *
+ * https://www.geeksforgeeks.org/tag/secure-coding/
 
 
 # Training Resources
