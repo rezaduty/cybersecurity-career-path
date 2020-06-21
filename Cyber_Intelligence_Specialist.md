@@ -29,7 +29,8 @@ The Cyber Threat and Intelligence Analyst will support the customer's overall cy
 
 
 # Certification
-  * 
+  * SEC555
+  * FOR578
 
 
 # Job Salary
