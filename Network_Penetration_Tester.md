@@ -35,13 +35,10 @@ $65K <= $81K <= $111K
 
 
 # Interview Questions
- * https://github.com/jigerjain/Interview_Tips
- * https://medium.com/@techcluesblog/penetration-testing-interview-questions-22842d4d668f
+ * https://compsecurityconcepts.wordpress.com/2016/02/19/network-penetration-testing-interview-questions-answers/
 
 
 # Training Resources
-  * https://start.me/p/PwmnBd/web
-  * https://start.me/p/OmxRqE/mobile
   * https://start.me/p/X2K4oB/network
 
 
