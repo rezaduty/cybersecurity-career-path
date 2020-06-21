@@ -25,7 +25,8 @@ We’re looking for an open-minded individual with a genuine love of data protec
 
 
 # Certification
-  * 
+  * GDRP
+  * CDO
 
 
 # Job Salary
