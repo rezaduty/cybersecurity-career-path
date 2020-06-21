@@ -21,7 +21,6 @@ Source code auditors expose vulnerabilities and prevent potential security threa
 
 
 # Certification
-  * CSSLP
   * Secure Coding in Java(ISC2)
   * Secure Coding in .NET(ISC2)
   * Secure Coding in PHP(ISC2)
