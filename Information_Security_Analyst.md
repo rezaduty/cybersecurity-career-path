@@ -27,7 +27,8 @@ As a member of the Enterprise Risk Management (ERM) team the Information Securit
 
 
 # Certification
-  * 
+  * SEC573
+  * MGT414
 
 
 # Job Salary
