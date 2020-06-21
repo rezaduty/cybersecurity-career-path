@@ -28,14 +28,11 @@ $0K <= $0K <= $∞K
 
 
 # Interview Questions
- * https://github.com/jigerjain/Interview_Tips
- * https://medium.com/@techcluesblog/penetration-testing-interview-questions-22842d4d668f
+ * 
 
 
 # Training Resources
-  * https://start.me/p/PwmnBd/web
-  * https://start.me/p/OmxRqE/mobile
-  * https://start.me/p/X2K4oB/network
+  * nahamsec.com
 
 
 
