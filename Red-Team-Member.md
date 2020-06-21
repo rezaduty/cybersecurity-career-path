@@ -32,12 +32,12 @@ Red Team performs group wide adversarial threat emulation activities to aid in t
 
 
 # Job Salary
-$65K <= $81K <= $111K
+$33K <= $71K <= $156K
 
 
 # Interview Questions
- * https://github.com/jigerjain/Interview_Tips
- * https://medium.com/@techcluesblog/penetration-testing-interview-questions-22842d4d668f
+ * https://medium.com/@malcomvetter/how-to-pass-a-red-team-interview-9155828cfa1c
+ * https://github.com/WebBreacher/offensiveinterview
 
 
 # Training Resources
