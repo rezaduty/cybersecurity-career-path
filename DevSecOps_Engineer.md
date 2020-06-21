@@ -22,7 +22,9 @@ DevSecOps Engineer required by my client in the financial services arena to work
 
 
 # Certification
-  * 
+  * SEC540
+  * DSOE
+  * CDP
 
 
 # Job Salary
