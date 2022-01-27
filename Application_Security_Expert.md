@@ -40,7 +40,7 @@ $73K <= $100K <= $130K
 
 
 # Interview Questions
- * https://github.com/security-prince/Application-Security-Engineer-Interview-Questions
+ * https://ishaqmohammed.me/posts/application-security-engineer-interview-questions/
  * https://www.wisdomjobs.com/e-university/application-security-interview-questions.html
 
 
