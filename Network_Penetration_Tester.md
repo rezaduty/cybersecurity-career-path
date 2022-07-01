@@ -28,6 +28,7 @@ A penetration test, colloquially known as a pen test, pentest or ethical hacking
   * CEH
   * eJPT
   * OSCP
+  * PNPT
 
 
 # Job Salary
