@@ -1,6 +1,11 @@
 # Summary
 You will help us enhance and implement secure coding practices and hardware design for our current Axon product family as well as new products currently under design. You will help select and build advanced tooling to help the firmware engineering teams write secure code without destroying their flow. You will instrumentally be the advocate of these best practices to foster a culture of code and product security to ensure we build the most secure product possible. Above all, you come prepared to take an IoT platform through a secure development lifecycle from initial threat modeling and requirements generation to post-launch vulnerability discovery and remediation.
 
+# Baseline
+
+* 
+
+
 # Hard Skills
 * 3-5 years professional experience
 * Low-level/embedded software engineering background; with a current focus on secure application development
