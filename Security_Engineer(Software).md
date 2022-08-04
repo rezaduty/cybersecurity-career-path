@@ -31,7 +31,30 @@ Information systems security engineers (ISSE), help businesses keep sensitive da
 
 
 # Job Salary
+
+
+## Asia
+$67K <= $79K <= $105K
+
+
+## Africa
+$41K <= $54K <= $79K
+
+
+## North America
 $73K <= $100K <= $130K
+
+
+## South America
+$61K <= $88K <= $97K
+
+
+## Europe
+£43,624 <= £47,999 <= £77,499
+ 
+
+## Oceania
+AU$65K <= AU$71,990 <= AU$96K
 
 
 # Interview Questions
