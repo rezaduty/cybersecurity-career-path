@@ -1,6 +1,11 @@
 # Summary
 The ideal team member will have extensive experience in more than one of the following security testing domains: Network/Application, Web Application, Mobile Application, and Operating System. This candidate must be driven, a stellar communicator, enthusiastic and have the desire to stay ahead of today’s emerging threats and actor techniques.
 
+# Baseline
+
+* 
+
+
 # Hard Skills
 * Minimum 2 years of Cyber Security experience 
 * Perform technical duties in support of the in-houseInformation Systems Security program
@@ -32,7 +37,29 @@ The ideal team member will have extensive experience in more than one of the fol
 
 
 # Job Salary
+
+## Asia
+$28K <= $51K <= $122K
+
+
+## Africa
+$24K <= $54K <= $118K
+
+
+## North America
+$104K <= $120K <= $138K
+
+
+## South America
 $41K <= $105K <= $126K
+
+
+## Europe
+£50K <= £75K <= £125K
+ 
+
+## Oceania
+AU$54K <= AU$100K <= AU$120K
 
 
 # Interview Questions
