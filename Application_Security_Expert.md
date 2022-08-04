@@ -1,6 +1,11 @@
 # Summary
 As a member of our Infrastructure & Information Security pod, you will support our cloud infrastructure by developing tools, building services, and providing consultative services to our engineering teams. You will be a key part in safeguarding our creators who entrust Teachable with their content every day. You’ll plan and carry out security measures to monitor and protect sensitive data and systems from infiltration and cyber-attacks.
 
+# Baseline
+
+* 
+
+
 # Hard Skills
 * Familiarity with MITRE's ATT&CK Framework
 * Leading or conducting Adversary Emulations
@@ -36,7 +41,30 @@ As a member of our Infrastructure & Information Security pod, you will support o
 
 
 # Job Salary
+
+## Asia
+$41K <= $60K <= $84K
+
+
+## Africa
+$39K <= $54K <= $59K
+
+
+## North America
 $73K <= $100K <= $130K
+
+
+## South America
+$55K <= $87K <= $132K
+
+
+## Europe
+£30K <= £48K <= £120K
+ 
+
+## Oceania
+AU$56K <= AU$90K <= AU$145K
+
 
 
 # Interview Questions
