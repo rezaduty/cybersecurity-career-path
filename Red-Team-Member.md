@@ -32,7 +32,29 @@ Red Team performs group wide adversarial threat emulation activities to aid in t
 
 
 # Job Salary
+
+## Asia
+$29K <= $60K <= $110K
+
+
+## Africa
+$19K <= $34K <= $60K
+
+
+## North America
 $33K <= $71K <= $156K
+
+
+## South America
+$29K <= $58K <= $91K
+
+
+## Europe
+£45,624 <= £69,999 <= £83,499
+ 
+
+## Oceania
+AU$58K <= AU$83,990 <= AU$120K
 
 
 # Interview Questions
