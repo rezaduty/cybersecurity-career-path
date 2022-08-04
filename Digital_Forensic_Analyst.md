@@ -1,6 +1,11 @@
 # Summary
 The Digital Forensics Analyst/Investigator performs a variety of highly technical analyses and procedures dealing with the collection, processing, preservation, analysis, and presentation of computer?related evidence, and is responsible for disseminating and reporting cyber?related activities, conducing vulnerability analyses and risk management of computer systems and recovering information from computers and data storage devices. Use forensic tools and investigative methods to find specific electronic data, including Internet use history, word processing documents, images and other files. Proficient in the latest forensic, response, and reverse engineering skills, but is astute in the latest exploit methodologies. Recover information from computers and data storage devices. Use forensic tools and investigative methods to find specific electronic data, including Internet use history, word processing documents, images and other files and information that have been hidden, deleted or lost.
 
+# Baseline
+
+* 
+
+
 # Hard Skills
 * Hands-on working experience with Encase and/ or FTK digital forensics applications
 * Experience within SOC/NOC operations
