@@ -1,6 +1,11 @@
 # Summary
 We’re looking for an open-minded individual with a genuine love of data protection, who can think innovatively and see the opportunity here for both career and personal development working for a high-growth company. Reporting day-to-day into our Group General Counsel, this individual will work alongside internal stakeholders (e.g. development, operations, sales, and InfoSec) and play a pivotal role in driving our global compliance function – helping to deliver our culture where the protection of data is at the heart of our business.
 
+# Baseline
+
+* 
+
+
 # Hard Skills
 * Leads the Global privacy direction of NTTS.
 * informing and advise NTTS of their obligations under GDPR and other relevant privacy law;
