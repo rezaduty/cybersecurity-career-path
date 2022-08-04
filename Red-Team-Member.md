@@ -2,6 +2,12 @@
 Red Team performs group wide adversarial threat emulation activities to aid in the assessment of control and process effectiveness, against highly skilled and sophisticated attacker(s). The team operates across physical, people, process and technology in an effort to achieve well defined engagement goals and provide clarity on control effectiveness and gaps discovered along the attack path travelled across protect, monitor and response.
 
 
+# Baseline
+
+* 
+
+
+
 # Hard Skills
 * Overall 3+ years of Information Security experience.
 * 3+ years of experience with executing web application, network, and system penetration tests for clients
