@@ -1,6 +1,10 @@
 # Summary
 Has a strong track record of working with engineering and product teams on assessing applications against security standards, conducting risk-based assessments of application security practices, designing secure systems, and driving security by building close working partnerships with Product and Engineering professionals.
 
+# Baseline
+
+* 
+
 # Hard Skills
 * 5+ Years' experience in Security Research, Web-Application & Network Penetration Testing or adjacent fields.
 * Deep knowledge of the cyber security threat landscape, attacker mind-set and trends.
