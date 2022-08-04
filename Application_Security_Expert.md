@@ -3,7 +3,7 @@ As a member of our Infrastructure & Information Security pod, you will support o
 
 # Baseline
 
-* 
+* Known Framework Architecuture
 
 
 # Hard Skills
