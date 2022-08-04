@@ -28,7 +28,30 @@ Has a strong track record of working with engineering and product teams on asses
 
 
 # Job Salary
+
+
+## Asia
+$70K <= $90K <= $109K
+
+
+## Africa
+$44K <= $60K <= $79K
+
+
+## North America
 $75K <= $100K <= $126K
+
+
+## South America
+$61K <= $74K <= $100K
+
+
+## Europe
+£33,624 <= £63,999 <= £90,499
+ 
+
+## Oceania
+AU$48K <= AU$69,990 <= AU$77K
 
 
 # Interview Questions
