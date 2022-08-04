@@ -1,6 +1,11 @@
 # Summary
 Perform vulnerability analysis of mobile/embedded platforms, applications.
 
+# Baseline
+
+* 
+
+
 # Hard Skills
 * Knowledge of OWASP Mobile Security Testing Guide
 * Experience developing iOS, Android, or React Native mobile applications and working within a team environment.
