@@ -2,6 +2,12 @@
 A penetration test, colloquially known as a pen test, pentest or ethical hacking, is an authorized simulated cyberattack on a computer system, performed to evaluate the security of the system. Not to be confused with a vulnerability assessment.
 
 
+
+# Baseline
+
+* 
+
+
 # Hard Skills
 * Being skilful in using and interpreting results from common security tools including but not limited to Burp Suite, Nessus, OpenVAS, Yersinia, Scapy, Wireshark, Nmap (with advanced options), SQLMap, SSLyze, THC-IPV6, BeEF and other tools in PenToo or Kalinux distro.
 * Familiarity with industry standard classification schemes such as CVE, CVSS, CWE, CAPEC.
