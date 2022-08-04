@@ -1,6 +1,11 @@
 # Summary
 Mobile application penetration testing allows organizations the ability to weed out any imperfections in their network that require immediate patching and/or protection.  Organizations that are entering a mobile pen test scenario should focus on being as positive as possible and thinking of the test as an educational experience.
 
+# Baseline
+
+* 
+
+
 # Hard Skills
 * Knowledge of OWASP Mobile Security Testing Guide
 * Being skilful in using and interpreting results from common security tools including but not limited to Burp Suite, Wireshark, Frida, IDA, GHIDRA and other tools in PenToo or Kalinux distro.
