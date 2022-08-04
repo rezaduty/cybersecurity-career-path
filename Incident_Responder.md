@@ -36,7 +36,29 @@ Performs forensic analysis of digital information and gathers and handles eviden
 
 
 # Job Salary
-$59K <= $76K <= $97K
+
+## Asia
+$69K <= $89K <= $111K
+
+
+## Africa
+$49K <= $64K <= $79K
+
+
+## North America
+$61K <= $86K <= $102K
+
+
+## South America
+$72K <= $96K <= $132K
+
+
+## Europe
+£55,624 <= £68,999 <= £120,499
+ 
+
+## Oceania
+AU$78K <= AU$108,990 <= AU$191K
 
 
 # Interview Questions
