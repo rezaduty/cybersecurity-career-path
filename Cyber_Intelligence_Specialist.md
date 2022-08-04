@@ -1,6 +1,11 @@
 # Summary
 The Cyber Threat and Intelligence Analyst will support the customer's overall cyber threat analysis efforts. Researches, analyzes, writes, edits, and proofreads technical data for use in documents such as cybersecurity intelligence bulletins, alerts, and briefings. Attends meetings such as those that determine workflow, requirements, and other required documentation as part of contract deliverables. Ensures documentation is accurate, complete, meets editorial and government specifications, and adheres to standards for quality, graphics, coverage, format, and style. Participates in establishing style guidelines and standards for text and illustrations. Contributes to development, writing, and reviewing of SOPs.
 
+# Baseline
+
+* 
+
+
 # Hard Skills
 * Working as expert, conduct research and evaluate technical and all-source intelligence with specific emphasis on network operations and cyber warfare tactics, techniques, and procedures focused on the threat to networked weapons platforms and US and DoD information networks.
 * Analyzes network events to determine the impact on current operations and conduct all-source research to determine advisory capability and intent.
