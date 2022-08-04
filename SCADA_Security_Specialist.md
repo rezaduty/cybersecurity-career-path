@@ -39,7 +39,30 @@
 
 
 # Job Salary
+
+
+## Asia
+$70K <= $99K <= $135K
+
+
+## Africa
+$41K <= $54K <= $79K
+
+
+## North America
 $75K <= $103K <= $160K
+
+
+## South America
+$65K <= $79K <= $102K
+
+
+## Europe
+£68,624 <= £74,999 <= £85,499
+ 
+
+## Oceania
+AU$68K <= AU$79,990 <= AU$81K
 
 
 # Interview Questions
