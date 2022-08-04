@@ -29,7 +29,30 @@ research, build and design revolutionary technology, and strongly support indivi
 
 
 # Job Salary
+
+
+## Asia
+$48K <= $59K <= $84K
+
+
+## Africa
+$34K <= $41K <= $79K
+
+
+## North America
 $54K <= $74K <= $105K
+
+
+## South America
+$44K <= $81K <= $92K
+
+
+## Europe
+£48,624 <= £51,999 <= £64,499
+ 
+
+## Oceania
+AU$88K <= AU$109,990 <= AU$134K
 
 
 # Interview Questions
