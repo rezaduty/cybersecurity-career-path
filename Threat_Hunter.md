@@ -1,6 +1,10 @@
 # Summary
 You will hunt for cyber threats in our networks using our suite of cyber tools. You will use your understanding of attack vectors to seek out threats looking to exploit those networks to gain unauthorized access to our sensitive data. This position requires creative thinkers who are able to develop and field new methods for detecting malicious activity. This is an opportunity to take a new approach to cyber defense and help us build a world class threat detection organization.
 
+# Baseline
+
+* 
+
 # Hard Skills
 * Windows/AD file systems, registry functions, and memory artifacts
 * Unix/Linux file systems and memory artifacts
