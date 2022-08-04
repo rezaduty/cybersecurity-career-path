@@ -1,6 +1,11 @@
 # Summary
 As a member of the Enterprise Risk Management (ERM) team the Information Security Analyst works closely with and receives guidance from the Information Security Officer with a focus on ensuring bank computer systems are adequately protected against threats, both internal and external; The primary focus will be on the detection and response of cyber related issues and governance of access control processes.
 
+# Baseline
+
+* 
+
+
 # Hard Skills
 * Develop, deploy, and support information security systems and solutions. Examples: Vulnerability Scanning, Data Loss Prevention, SIEM
 * Proactively assesses potential risks and vulnerabilities, and drive remediation efforts. Examples: Project Risk Assessments, Threat Identification
