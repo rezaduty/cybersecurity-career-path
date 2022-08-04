@@ -30,7 +30,30 @@ A penetration test, colloquially known as a pen test, pentest or ethical hacking
 
 
 # Job Salary
+
+
+## Asia
+$58K <= $76K <= $85K
+
+
+## Africa
+$30K <= $43K <= $61K
+
+
+## North America
 $65K <= $81K <= $111K
+
+
+## South America
+$56K <= $70K <= $78K
+
+
+## Europe
+£31,624 <= £60,999 <= £98,499
+ 
+
+## Oceania
+AU$60K <= AU$69,990 <= AU$75K
 
 
 # Interview Questions
