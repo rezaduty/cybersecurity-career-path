@@ -35,7 +35,30 @@ You will hunt for cyber threats in our networks using our suite of cyber tools. 
 
 
 # Job Salary
+
+
+## Asia
+$39K <= $59K <= $85K
+
+
+## Africa
+$25K <= $32K <= $43K
+
+
+## North America
 $45K <= $69K <= $102K
+
+
+## South America
+$35K <= $54K <= $79K
+
+
+## Europe
+£36,624 <= £41,999 <= £63,499
+ 
+
+## Oceania
+AU$78K <= AU$85,990 <= AU$99K
 
 
 # Interview Questions
