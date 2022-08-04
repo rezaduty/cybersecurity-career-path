@@ -1,6 +1,11 @@
 # Summary
 A bug bounty hunter is an individual who knows the nuts and bolts of cybersecurity and is well familiar with finding bugs or flaws. Simply put, a bug bounty hunter tests applications and platforms and looks for bugs that sometimes even the in-house development team fails to spot. Once spotting a bug, these professionals inform the company (or the concerned body behind the application or the platform) about the bug and in return, they get paid. The benefits are not always monetary.
 
+# Baseline
+
+* 
+
+
 
 # Hard Skills
 * Expertise in all aspects of security disciplines: Information security, software development, vulnerability assessments, threat analysis, incident response, threat modeling, security intelligence and forensic investigations.
