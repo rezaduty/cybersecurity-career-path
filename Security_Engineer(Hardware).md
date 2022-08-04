@@ -26,7 +26,30 @@ You will help us enhance and implement secure coding practices and hardware desi
 
 
 # Job Salary
+
+
+## Asia
+$68K <= $79K <= $115K
+
+
+## Africa
+$39K <= $54K <= $69K
+
+
+## North America
 $73K <= $99K <= $130K
+
+
+## South America
+$52K <= $66K <= $102K
+
+
+## Europe
+£55,624 <= £69,999 <= £74,499
+ 
+
+## Oceania
+AU$68K <= AU$74,990 <= AU$81K
 
 
 # Interview Questions
