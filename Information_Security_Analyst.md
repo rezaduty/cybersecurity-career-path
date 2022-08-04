@@ -32,7 +32,30 @@ As a member of the Enterprise Risk Management (ERM) team the Information Securit
 
 
 # Job Salary
+
+
+## Asia
+$59K <= $79K <= $109K
+
+
+## Africa
+$40K <= $49K <= $69K
+
+
+## North America
 $53K <= $76K <= $116K
+
+
+## South America
+$51K <= $61K <= $100K
+
+
+## Europe
+£45,624 <= £54,999 <= £82,499
+ 
+
+## Oceania
+AU$58K <= AU$83,990 <= AU$120K
 
 
 # Interview Questions
