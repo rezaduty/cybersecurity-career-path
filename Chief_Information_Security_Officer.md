@@ -1,6 +1,10 @@
 # Summary
 The CISO will serve as the process owner of all assurance activities related to the availability, integrity, and confidentiality of business partner, employee, and business applications in compliance with the Company information security policies.
 
+# Baseline
+
+* 
+
 # Hard Skills
 * Develop, implement and monitor strategic security risk programs
 * Review and improve the company's cloud network, IT architecture, data, and application security
@@ -31,7 +35,29 @@ The CISO will serve as the process owner of all assurance activities related to 
 
 
 # Job Salary
+
+## Asia
+$90K <= $202K <= $350K
+
+
+## Africa
+$62K <= $97K <= $119K
+
+
+## North America
 $103K <= $172K <= $247K
+
+
+## South America
+$51K <= $75K <= $93K
+
+
+## Europe
+£69,624 <= £86,999 <= £155,499
+ 
+
+## Oceania
+AU$88K <= AU$126,990 <= AU$189K
 
 
 # Interview Questions
