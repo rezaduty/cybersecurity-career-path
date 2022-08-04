@@ -1,6 +1,10 @@
 # Summary
 As a member of our Infrastructure & Information Security pod, you will support our cloud infrastructure by developing tools, building services, and providing consultative services to our engineering teams. You will be a key part in safeguarding our creators who entrust Teachable with their content every day. You’ll plan and carry out security measures to monitor and protect sensitive data and systems from infiltration and cyber-attacks.
 
+# Baseline
+
+* 
+
 # Hard Skills
 * Knowledge of cyber incident response processes
 * Experience with Qradar - Create/maintain rules, filters, dashboards, and reports – is a must
