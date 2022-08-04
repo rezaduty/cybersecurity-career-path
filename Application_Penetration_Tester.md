@@ -2,6 +2,10 @@
 A penetration test, colloquially known as a pen test, pentest or ethical hacking, is an authorized simulated cyberattack on a computer system, performed to evaluate the security of the system. Not to be confused with a vulnerability assessment.
 
 
+# Baseline
+
+* 
+
 # Hard Skills
 * Experience performing whitebox application penetration testing (Web, APIs, Mobile, Thick clients); or ability to demonstrate equivalent knowledge
 
@@ -34,7 +38,30 @@ A penetration test, colloquially known as a pen test, pentest or ethical hacking
 
 
 # Job Salary
+
+## Asia
+$30K <= $59K <= $115K
+
+
+## Africa
+$39K <= $54K <= $59K
+
+
+## North America
 $104K <= $120K <= $138K
+
+
+## South America
+$72K <= $96K <= $132K
+
+
+## Europe
+£45,624 <= £69,999 <= £82,499
+ 
+
+## Oceania
+AU$58K <= AU$83,990 <= AU$120K
+
 
 
 # Interview Questions
