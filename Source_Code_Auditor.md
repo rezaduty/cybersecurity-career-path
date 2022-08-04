@@ -30,7 +30,30 @@ Source code auditors expose vulnerabilities and prevent potential security threa
 
 
 # Job Salary
+
+
+## Asia
+$44K <= $59K <= $78K
+
+
+## Africa
+$20K <= $31K <= $39K
+
+
+## North America
 $50K <= $65K <= $90K
+
+
+## South America
+$39K <= $47K <= $70K
+
+
+## Europe
+£22,624 <= £39,999 <= £58,499
+ 
+
+## Oceania
+AU$32K <= AU$42,990 <= AU50K
 
 
 # Interview Questions
