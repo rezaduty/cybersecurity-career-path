@@ -28,7 +28,30 @@ DevSecOps Engineer required by my client in the financial services arena to work
 
 
 # Job Salary
+
+
+## Asia
+$57K <= $65K <= $78K
+
+
+## Africa
+$31K <= $39K <= $53K
+
+
+## North America
 $78K <= $140K <= $205K
+
+
+## South America
+$30K <= $46K <= $61K
+
+
+## Europe
+£58,624 <= £62,999 <= £78,499
+ 
+
+## Oceania
+AU$67K <= AU$91,990 <= AU$126K
 
 
 # Interview Questions
