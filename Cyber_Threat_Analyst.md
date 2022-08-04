@@ -2,6 +2,11 @@
 This role will be responsible for providing architectural and operational support to the corporate Identity and Access Management program in collaboration with other IT teams as well as hands-on administration of the enterprise Privileged Identity Management (PIM) platform, ensuring the organization meets its business objectives while ensuring appropriate security controls are present.
 This role is a technical, hands-on role, and the successful candidate will support the SME for PIM strategy in the organization. Experience with Microsoft ESAE architecture preferred.
 
+# Baseline
+
+* 
+
+
 # Hard Skills
 * Develop intelligence products and performs expansive cyberspace intelligence analyst duties
 * Experience with Domaintools, Maltego, Security Incident Event Management, Host Based Security System (HBSS), Firewall, Bro IDS, and Snort
