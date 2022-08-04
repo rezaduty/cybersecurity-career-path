@@ -4,7 +4,8 @@ A penetration test, colloquially known as a pen test, pentest or ethical hacking
 
 # Baseline
 
-* 
+* Known Some Programming Language
+* Known Some Application Architecutr
 
 # Hard Skills
 * Experience performing whitebox application penetration testing (Web, APIs, Mobile, Thick clients); or ability to demonstrate equivalent knowledge
