@@ -32,7 +32,29 @@ This role is a technical, hands-on role, and the successful candidate will suppo
 
 
 # Job Salary
-$53K <= $76K <= $116K
+
+## Asia
+$48K <= $59K <= $71K
+
+
+## Africa
+$32K <= $41K <= $65K
+
+
+## North America
+$53K <= $34K <= $116K
+
+
+## South America
+$34K <= $44K <= $89K
+
+
+## Europe
+£39,624 <= £54,999 <= £66,499
+ 
+
+## Oceania
+AU$53K <= AU$92,990 <= AU$105K
 
 
 # Interview Questions
