@@ -32,7 +32,30 @@ As a member of our Infrastructure & Information Security pod, you will support o
 
 
 # Job Salary
+
+
+## Asia
+$45K <= $61K <= $89K
+
+
+## Africa
+$29K <= $41K <= $55K
+
+
+## North America
 $53K <= $76K <= $116K
+
+
+## South America
+$42K <= $61K <= $97K
+
+
+## Europe
+£27,624 <= £49,999 <= £82,499
+ 
+
+## Oceania
+AU$50K <= AU$59,990 <= AU$77K
 
 
 # Interview Questions
