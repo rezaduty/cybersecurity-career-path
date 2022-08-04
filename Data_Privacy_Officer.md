@@ -30,7 +30,30 @@ We’re looking for an open-minded individual with a genuine love of data protec
 
 
 # Job Salary
+
+
+## Asia
+$41K <= $67K <= $96K
+
+
+## Africa
+$12K <= $17K <= 26K
+
+
+## North America
 $33K <= $86K <= $113K
+
+
+## South America
+$71K <= $87K <= $112K
+
+
+## Europe
+£39,624 <= £46,999 <= £74,499
+ 
+
+## Oceania
+AU$78K <= AU$91,990 <= AU$115K
 
 
 # Interview Questions
