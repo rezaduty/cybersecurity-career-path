@@ -44,7 +44,31 @@ Most Senior Executive accountable for Security
 
 
 # Job Salary
+
+
+## Asia
+$207K <= $296K <= $341K
+
+
+## Africa
+$125K <= $153K <= $272K
+
+
+## North America
 $64K <= $158K <= $257K
+
+
+## South America
+$109K <= $187K <= $267K
+
+
+## Europe
+£86K <= £117K <= £128K
+ 
+
+## Oceania
+AU$109K <= AU$152K <= AU$182K
+
 
 
 # Interview Questions
