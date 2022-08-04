@@ -34,7 +34,30 @@ The Cyber Threat and Intelligence Analyst will support the customer's overall cy
 
 
 # Job Salary
+
+
+## Asia
+$56K <= $96K <= $108K
+
+
+## Africa
+$48K <= $76K <= $102K
+
+
+## North America
 $61K <= $84K <= $129K
+
+
+## South America
+$72K <= $96K <= $132K
+
+
+## Europe
+£45,624 <= £69,999 <= £82,499
+ 
+
+## Oceania
+AU$53K <= AU$92,990 <= AU$140K
 
 
 # Interview Questions
