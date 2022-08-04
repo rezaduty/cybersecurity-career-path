@@ -1,6 +1,11 @@
 # Summary
 Performs forensic analysis of digital information and gathers and handles evidence.Identifies network computer intrusion evidence and perpetrators, and coordinates with other government agencies to record and report incidents.Participate in collaborative sessions with other CNDSPs and IC agencies on malicious intrusions, attacks or suspicious activities, as well as share emerging Cyber Threat Intel data.Assist in the development of Indicators of Compromise for active defensive countermeasures and passive detection signatures. Position may require evening, weekend or shift-work (depending on operational tempo).
 
+# Baseline
+
+* 
+
+
 # Hard Skills
 * Hands-on experience in data analysis (preferably network traffic or log analysis) in relevant data analysis and data science platforms (Jupyter, Splunk, pandas, SQL)
 * Familiarity with cloud infrastructure, web application and servers, android and iOS mobile platforms
