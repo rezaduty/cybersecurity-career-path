@@ -1,6 +1,11 @@
 # Summary
 DevSecOps Engineer required by my client in the financial services arena to work in a brand-new and exciting entity that they are building out. You will be assisting and working on building out the platform whilst maintaining the core infrastructure, complete regular testing and be part of the new IT department for this entity. You will also design and own product development for the technology platform including Broker integrations. Initially you will be the main resource managing the platform. You will be required to build and maintain their CI/CD pipeline. You will also automate all the testing processes and ensure safe deployments to the production environment. You will manage the infrastructure and periodically audit the Infrastructure-as-Code (IaC) setup created initially by a third party supplier. You will configure security policies and manage security components, e.g. identity management systems (Google Identity Platform and IAM), vulnerability scanning (Google Container Registry), event/threat monitoring (Google Stackdriver)
 
+# Baseline
+
+* 
+
+
 # Hard Skills
 * Very strong in-depth hands-on experience with Amazon Web Services, including EC2, IAM, Load Balancers, S3, RDS, VPC, Lambda, KMS, API Gateway, Elasticsearch, GuardDuty and Inspector
 * Experience with Kubernetes, Docker Swarm, Apache Mesos or other Docker orchestration offerings
