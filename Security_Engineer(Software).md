@@ -1,6 +1,10 @@
 # Summary
 Information systems security engineers (ISSE), help businesses keep sensitive data safe. Data may include confidential client records such as patient records at a hospital, trade secrets, and financial records that are all potential targets from cyber-attacks. Being an ISSE plays important roles in guarding businesses, government, and individuals against hackers and cyber-criminals who are always creating new ways to infiltrate sensitive databases.
 
+# Baseline
+
+* 
+
 # Hard Skills
 * At least 5+ years of experience in application security
 * Strong communication skills and ability to work in a team
