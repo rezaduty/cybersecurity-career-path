@@ -25,7 +25,30 @@ Perform vulnerability analysis of mobile/embedded platforms, applications.
 
 
 # Job Salary
+
+
+## Asia
+$62K <= $71K <= $115K
+
+
+## Africa
+$30K <= $41K <= $49K
+
+
+## North America
 $78K <= $102K <= $125K
+
+
+## South America
+$51K <= $65K <= $91K
+
+
+## Europe
+£39,624 <= £54,999 <= £61,499
+ 
+
+## Oceania
+AU$58K <= AU$83,990 <= AU$120K
 
 
 # Interview Questions
