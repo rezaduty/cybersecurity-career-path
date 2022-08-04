@@ -1,6 +1,11 @@
 # Summary
  The position will primarily be focused on supporting the building and maintenance of the ADMS Network Model – integrating the GIS As Built Model with existing legacy application SCADA settings and electrical attributes data, to produce the new ADMS Electrical Network Model. The position will work under the guidance and direction of other project personnel to support project activities.
 
+# Baseline
+
+* 
+
+
 # Hard Skills
 * Technical SCADA or Automation experience in either a project execution or on-going maintenance capacity.
 * Demonstrated experience in working with industry protocols such as: DNP 3.0, Modbus RTU/TCP, Inter-control Center Protocol (ICCP).
