@@ -35,7 +35,30 @@ The Digital Forensics Analyst/Investigator performs a variety of highly technica
 
 
 # Job Salary
+
+
+## Asia
+$44K <= $54K <= $63K
+
+
+## Africa
+$39K <= $49K <= $51K
+
+
+## North America
 $45K <= $58K <= $79K
+
+
+## South America
+$39K <= $41K <= $71K
+
+
+## Europe
+£31,624 <= £38,999 <= £49,499
+ 
+
+## Oceania
+AU$58K <= AU$67,990 <= AU$92K
 
 
 # Interview Questions
