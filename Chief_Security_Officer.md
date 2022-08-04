@@ -2,6 +2,11 @@
 
 Most Senior Executive accountable for Security
 
+# Baseline
+
+* 
+
+
 
 # Hard Skills
 * In-depth knowledge of Security disciplines: Government Security Inspection/Compliance, classified Information Systems (Information Assurance), Program Protection, Physical/Technical Security, Insider Threat, Counterintelligence, Investigations, Personnel Clearances, Operations Security (OPSEC), Security Awareness, Training and Education (SATE)
