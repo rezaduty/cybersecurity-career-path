@@ -1,6 +1,11 @@
 # Summary
 research, build and design revolutionary technology, and strongly support individual growth through training, attending conferences, and publishing results.
 
+# Baseline
+
+* 
+
+
 # Hard Skills
 * Knowledge of a variety of Machine Learning disciplines to include Neural Networks, Bayesian Inference, and Symbolic learning
 * Knowledge of Social Network Analysis, Topology Analysis, or Advanced Statistics
