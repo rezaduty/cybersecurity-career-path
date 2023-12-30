@@ -66,6 +66,7 @@ AU$60K <= AU$69,990 <= AU$75K
 
 # Training Resources
   * https://start.me/p/PwmnBd/web
+  * https://pentest-ground.com/
 
 
 
