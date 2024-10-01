@@ -5,7 +5,7 @@ A penetration test, colloquially known as a pen test, pentest or ethical hacking
 # Baseline
 
 * Known Some Programming Language
-* Known Some Application Architecutr
+* Known Some Application Architecture
 
 # Hard Skills
 * Experience performing whitebox application penetration testing (Web, APIs, Mobile, Thick clients); or ability to demonstrate equivalent knowledge
@@ -18,7 +18,7 @@ A penetration test, colloquially known as a pen test, pentest or ethical hacking
 
 * Experience with scripting languages such as: Python, bash, Powershell, etc.
 
-* Knowledge of containers and cloud technologie
+* Knowledge of containers and cloud technologies
 
 
 # Soft Skills
