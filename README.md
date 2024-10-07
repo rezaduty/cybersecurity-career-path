@@ -55,3 +55,41 @@ Cybersecurity Career Path ⬆️
 * [Chief Information Security Officer](https://github.com/rezaduty/security-career-path/blob/master/Chief_Information_Security_Officer.md)
 * [Chief Security Officer](https://github.com/rezaduty/security-career-path/blob/master/Chief_Security_Officer.md)
 
+## Common Position Seniority Levels
+
+1. **Intern**
+    
+    - Typically for students or recent graduates gaining initial work experience.
+2. **Junior**
+    
+    - Entry-level positions requiring supervision and guidance; typically suited for those with limited experience.
+3. **Mid-Level**
+    
+    - Professionals with a few years of experience who can work independently and manage projects with some complexity.
+4. **Senior**
+    
+    - Experienced professionals with a high level of expertise who can mentor others and lead projects.
+5. **Lead**
+    
+    - A role that often includes leadership responsibilities, overseeing teams or specific projects.
+6. **Staff**
+    
+    - A senior technical role that may not have direct management responsibilities but involves significant expertise and influence within the organization.
+7. **Principal**
+    
+    - Very senior position often responsible for setting technical direction, making architectural decisions, or influencing business strategy.
+8. **Architect**
+    
+    - Focuses on the design and structure of systems and solutions, requiring extensive experience and expertise.
+9. **Manager**
+    
+    - Typically involves overseeing teams or departments, focusing on personnel management in addition to technical skills.
+10. **Director**
+    
+    - Senior management role responsible for strategic direction and overall leadership of a department or function.
+11. **Vice President (VP)**
+    
+    - An executive-level position, often responsible for a significant area of the organization (e.g., cybersecurity, technology).
+12. **C-Level (e.g., CTO, CISO)**
+    
+    - Executive positions that are responsible for the overall strategy and direction of the organization’s technology or security posture.
