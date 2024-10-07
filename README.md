@@ -48,6 +48,12 @@ Cybersecurity Career Path ⬆️
 * [DevSecOps Engineer](https://github.com/rezaduty/security-career-path/blob/master/DevSecOps_Engineer.md)
 * [Security Engineer(Software)](https://github.com/rezaduty/security-career-path/blob/master/Security_Engineer(Software).md)
 * [Security Engineer(Hardware)](https://github.com/rezaduty/security-career-path/blob/master/Security_Engineer(Hardware).md)
+* [Automation Engineer](https://github.com/rezaduty/cybersecurity-career-path/blob/master/Automation_Engineer.md)
+* [Network Security Engineer](https://github.com/rezaduty/cybersecurity-career-path/blob/master/NetworkSecurity_Engineer.md)
+* [Cloud Security Engineer](https://github.com/rezaduty/cybersecurity-career-path/blob/master/CloudSecurity_Engineer.md)
+* [Data Security Engineer](https://github.com/rezaduty/cybersecurity-career-path/blob/master/DataSecurity_Engineer.md)
+
+
 
 ## Officer
 
