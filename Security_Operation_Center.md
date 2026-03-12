@@ -67,7 +67,11 @@ AU$50K <= AU$59,990 <= AU$77K
 
 
 # Training Resources
-  * 
+* [SOC Fundamentals - FREE](https://app.letsdefend.io/training/lessons/soc-fundamentals)
+* [Phishing Email Analysis - FREE](https://app.letsdefend.io/training/lessons/phishing-email-analysis)
+* [How to Investigate a SIEM Alert? - FREE](https://app.letsdefend.io/training/lessons/how-to-investigate-a-siem-alert)
+* [SIEM 101 - FREE](https://app.letsdefend.io/training/lessons/siem-101)
+* [Building a SOC Lab at Home - FREE](https://app.letsdefend.io/training/lessons/building-a-soc-lab-at-home)
 
 
 
