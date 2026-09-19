@@ -1,73 +1,72 @@
-# Summary
-The ideal team member will have extensive experience in more than one of the following security testing domains: Network/Application, Web Application, Mobile Application, and Operating System. This candidate must be driven, a stellar communicator, enthusiastic and have the desire to stay ahead of today’s emerging threats and actor techniques.
+# Resumen
 
-# Baseline
+El miembro ideal del equipo azul tiene amplia experiencia en más de uno de los siguientes ámbitos de pruebas de seguridad: red/aplicaciones, aplicaciones web, aplicaciones móviles y sistemas operativos. Esta persona debe ser dinámica, excelente comunicadora, entusiasta y tener el deseo de adelantarse a las amenazas emergentes y a las técnicas de los actores de amenazas. El equipo azul es la fuerza defensiva que detecta, analiza y mitiga los ataques reales.
 
-* 
+# Requisitos previos
 
+* Mínimo 2 años de experiencia en ciberseguridad
+* Conocimientos de redes, sistemas y monitorización de seguridad
 
-# Hard Skills
-* Minimum 2 years of Cyber Security experience 
-* Perform technical duties in support of the in-houseInformation Systems Security program
-* Participate in the selection, evaluation, implementation, and security ofnetwork infrastructure and support systems/applications.
-* Builds system security assessments of network infrastructure and support systems
-* Analyses potential cyber threats to the infrastructure, able to support customer meetings to discuss vulnerabilities to the network
-* Provide technical support and responseto security requests from the local Cyber Security Service Provider (CSSP)
-* Provide technical support for responding to and implementing mitigation(s)across the networks and support systems, in support of Red/Blue Team assessments and other inspections
-* Provide technical guidance on best practices and assist network engineers in the development of User Guides, Standard Operating Procedures, and Policies.
-* Perform other duties as assigned in support of security functions
-* Solid understanding of current technology trends, security best practices, and cyber securitythreats
-* Ability to troubleshoot issues and work with engineers/vendors to resolve issues withsecurity configurations
+# Habilidades técnicas
 
+* Mínimo 2 años de experiencia en ciberseguridad.
+* Realizar tareas técnicas de soporte del programa de seguridad de los sistemas de información interno.
+* Participar en la selección, evaluación, implementación y aseguramiento de la infraestructura de red y de los sistemas/aplicaciones de soporte.
+* Construir evaluaciones de seguridad de sistemas de la infraestructura de red y de los sistemas de soporte.
+* Analizar las posibles amenazas cibernéticas a la infraestructura y apoyar reuniones con clientes para tratar vulnerabilidades de la red.
+* Proporcionar soporte técnico y respuesta a las solicitudes de seguridad del Proveedor de Servicios de Ciberseguridad local (CSSP).
+* Dar soporte técnico para responder a e implementar mitigaciones en redes y sistemas de soporte, en apoyo de las evaluaciones de Equipos Rojo/Azul y otras inspecciones.
+* Proporcionar orientación técnica sobre buenas prácticas y ayudar a los ingenieros de red en el desarrollo de guías de usuario, procedimientos operativos estándar y políticas.
+* Ejecutar otras tareas asignadas en apoyo de las funciones de seguridad.
+* Comprensión sólida de las tendencias tecnológicas actuales, buenas prácticas de seguridad y amenazas de ciberseguridad.
+* Capacidad de solucionar problemas y trabajar con ingenieros/proveedores para resolver incidencias de configuración de seguridad.
+* Experiencia con monitorización (SIEM/EDR), análisis de logs, análisis de tráfico de red y respuesta a incidentes básica.
 
+# Habilidades blandas
 
+* Persona con iniciativa y disposición a aprender sobre una variedad de conceptos de seguridad.
+* Fuerte orientación al servicio al cliente con capacidad de construir relaciones eficaces.
 
-# Soft Skills
-* Self-starter with a willingness to learn about a variety of security concepts
-* Strong customer service orientation with the ability to build effective relationships
+# Educación
 
-# Education
-  * Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience
+  * Grado en Ciencias de la Computación, Ingeniería Informática, Ingeniería Eléctrica o experiencia equivalente.
 
+# Certificaciones
 
-# Certification
-  * SEC505
-  * SEC506
-  * SEC566
+  * CompTIA Security+ y CySA+ (nivel inicial, muy comunes en 2026)
+  * GCIH (SANS/GIAC, Incident Handler) — la certificación defensiva más solicitada del ecosistema GIAC
+  * GCIA (Intrusion Analyst) / Snort/Zeek
+  * BTL1 (Blue Team Level 1, Security Blue Team) — práctica 100 % orientada a equipo azul
 
+# Salario por región (2026)
 
-# Job Salary
+Cifras anuales brutas aproximadas `P25 <= Mediana <= P75`.
 
 ## Asia
-$28K <= $51K <= $122K
+$40K <= $60K <= $95K
 
+## África
+$28K <= $42K <= $68K
 
-## Africa
-$24K <= $54K <= $118K
+## Norteamérica
+$85K <= $115K <= $160K
 
+## Sudamérica
+$42K <= $62K <= $90K
 
-## North America
-$104K <= $120K <= $138K
+## Europa
+€42K <= €60K <= €90K
 
+## Oceanía
+AU$75K <= AU$100K <= AU$140K
 
-## South America
-$41K <= $105K <= $126K
+# Preguntas de entrevista
 
+ * Preguntas de entrevista de equipos rojo/azul (Reddit AskNetsec): https://www.reddit.com/r/AskNetsec/comments/553kvx/interview_questions_red_team_thinking_vs_blue/
+ * Guía de Blue Team Junior: https://www.youtube.com/watch?v=46mGs4qeq5Y (HackTheBox Blue Team)
 
-## Europe
-£50K <= £75K <= £125K
- 
+# Recursos de formación
 
-## Oceania
-AU$54K <= AU$100K <= AU$120K
-
-
-# Interview Questions
- * https://www.reddit.com/r/AskNetsec/comments/553kvx/interview_questions_red_team_thinking_vs_blue/
-
-
-# Training Resources
-  * 
-
-
-
+ * Plataforma de práctica Blue Team de TryHackMe: https://tryhackme.com/
+ * Academia de Hack The Box (Blue team modules): https://academy.hackthebox.com/
+ * Security Blue Team (cursos BTL1): https://www.securityblue.team/

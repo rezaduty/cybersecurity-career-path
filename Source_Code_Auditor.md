@@ -1,71 +1,68 @@
-# Summary
-Source code auditors expose vulnerabilities and prevent potential security threats. They also identify mistakes within source codes, eliminating inefficiencies. As industries become increasingly technical, the demand for auditors with source code expertise continues to grow. Source code auditors thoroughly assess code, prepare reports on their findings, and make recommendations for change.
+# Resumen
 
-# Baseline
+Los auditores de código fuente exponen vulnerabilidades y previenen posibles amenazas de seguridad. También identifican errores dentro de los códigos fuente, eliminando ineficiencias. A medida que las industrias se vuelven cada vez más técnicas, la demanda de auditores con experiencia en código fuente sigue creciendo. Los auditores de código fuente evalúan minuciosamente el código, preparan informes sobre sus hallazgos y hacen recomendaciones de cambio.
 
-* 
+# Requisitos previos
 
-# Hard Skills
-* Up to date understanding of the source code programming languages, such as C#, C++, .NET, Java, Perl, PHP, Python or Ruby On Rails etc. that you will be assessing
-* Practical experience using computer operating systems such as MS Windows, UNIX/Linux
-* An analytical mind with the ability to make sense of source code.
-* Knowledge of DevSecOps and development pipeline integration and automation.
-* Knowledge of Static/Dynamic Code Analysis.
-* Identify the source of any malicious intent, or any weakness leading to access, and information leaks
-* Working knowledge of intellectual property law, and all governing laws related to information assurance
-* Communicate audit results interdepartmentally and with legal teams
+* Fuertes habilidades de programación y comprensión de los ciclos de desarrollo
+* Capacidad de leer y entender documentación técnica y arquitectura
 
+# Habilidades técnicas
 
-# Soft Skills
-* Continuous learning on the job
+* Comprensión actualizada de los lenguajes de programación del código fuente que se evalúan: C#, C++, .NET, Java, Perl, PHP, Python, Ruby on Rails, Go, JavaScript/TypeScript, etc.
+* Experiencia práctica con sistemas operativos como MS Windows y UNIX/Linux.
+* Mente analítica con capacidad de dar sentido al código fuente.
+* Conocimiento de DevSecOps y de la integración y automatización de pipelines de desarrollo (SAST/DAST/SCA en CI/CD).
+* Conocimiento de análisis estático y dinámico de código (Semgrep, CodeQL, SonarQube, Snyk, Checkmarx, Fortify).
+* Identificar el origen de cualquier intención maliciosa o de cualquier debilidad que conduzca a accesos o fugas de información (hardcoded secrets, credenciales, backdoors, lógica insegura).
+* Conocimiento práctico de la normativa de propiedad intelectual y de todas las leyes aplicables relacionadas con el aseguramiento de la información.
+* Comunicar los resultados de las auditorías entre departamentos y con los equipos legales.
 
+# Habilidades blandas
 
-# Education
-  * Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience
+* Aprendizaje continuo en el trabajo
+* Capacidad de explicar hallazgos técnicos a desarrolladores y a audiencias no técnicas
 
+# Educación
 
-# Certification
-  * Secure Coding in Java(ISC2)
-  * Secure Coding in .NET(ISC2)
-  * Secure Coding in PHP(ISC2)
-  * SEC534
-  * DEV541
-  * DEV544
+  * Grado en Ciencias de la Computación, Ingeniería Informática, Ingeniería Eléctrica o experiencia equivalente.
 
+# Certificaciones
 
-# Job Salary
+  * Secure Coding (ISC2): en Java, .NET o PHP
+  * GSLP / SEC522 (SANS/GIAC, Secure Software Development)
+  * (Opcional) OSCP para entender mejor el lado ofensivo
+  * Certificaciones de proveedores de SAST (Synopsys, Checkmarx, Veracode) útiles como complemento
 
+# Salario por región (2026)
+
+Cifras anuales brutas aproximadas `P25 <= Mediana <= P75`.
 
 ## Asia
-$44K <= $59K <= $78K
+$40K <= $58K <= $85K
 
+## África
+$25K <= $38K <= $60K
 
-## Africa
-$20K <= $31K <= $39K
+## Norteamérica
+$85K <= $115K <= $155K
 
+## Sudamérica
+$42K <= $60K <= $88K
 
-## North America
-$50K <= $65K <= $90K
+## Europa
+€40K <= €55K <= €80K
 
+## Oceanía
+AU$70K <= AU$95K <= AU$135K
 
-## South America
-$39K <= $47K <= $70K
+# Preguntas de entrevista
 
+ * Etiqueta secure-coding de GeeksforGeeks: https://www.geeksforgeeks.org/tag/secure-coding/
+ * Artículos sobre revisión de código de OWASP: https://owasp.org/www-project-code-review-guide/
 
-## Europe
-£22,624 <= £39,999 <= £58,499
- 
+# Recursos de formación
 
-## Oceania
-AU$32K <= AU$42,990 <= AU50K
-
-
-# Interview Questions
- * https://www.geeksforgeeks.org/tag/secure-coding/
-
-
-# Training Resources
-  * 
-
-
-
+  * Guía de Revisión de Código de OWASP: https://owasp.org/www-project-code-review-guide/
+  * Semgrep Learn (aprendizaje de análisis estático): https://semgrep.dev/
+  * Cursos de CodeQL (análisis semántico de código): https://codeql.github.com/docs/

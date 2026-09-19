@@ -1,71 +1,69 @@
-# Summary
-A penetration test, colloquially known as a pen test, pentest or ethical hacking, is an authorized simulated cyberattack on a computer system, performed to evaluate the security of the system. Not to be confused with a vulnerability assessment.
+# Resumen
 
-# Baseline
+El pentesting de aplicaciones web permite a las organizaciones evaluar la seguridad de sus aplicaciones en Internet y corregir imperfecciones antes de que sean explotadas. El evaluador prueba la aplicación desde la perspectiva de un atacante externo (caja negra) o interno (caja gris/blanca), centrándose en las vulnerabilidades del propio código, la configuración del servidor y las integraciones.
 
-* 
+# Requisitos previos
 
-# Hard Skills
-* Understanding of web application development and technologies.
-* Familiarity with industry standard classification schemes such as CVE, CVSS, CWE, CAPEC.
-* Familiarity with the systems / technologies used to host web applications.
-* Familiarity with commercial and open source vulnerability / penetration testing tools.
-* Experience developing custom code and scripts.
-* Familiarity with IP network architecture technology and protocols, Windows and Linux operating systems, routing, web technologies and protocols, common programming and scripting languages, SQL databases and queries, and OWASP.
+* Conocimientos de desarrollo de aplicaciones web (HTTP, HTML, JavaScript, APIs REST/GraphQL)
+* Familiaridad con los principales frameworks web (Spring, .NET, Django, Node.js, React)
 
+# Habilidades técnicas
 
-# Soft Skills
-* Excellent presentation and communications skills to effectively communicate with management and customers.
-* Ability to clearly articulate complex concepts (both written and verbally).
-* Ability, understanding, and usage of active listening skills (especially with customers!).
+* Comprensión del desarrollo de aplicaciones web y sus tecnologías.
+* Familiaridad con los esquemas de clasificación estándar: CVE, CVSS, CWE, CAPEC.
+* Familiaridad con los sistemas/tecnologías que alojan aplicaciones web (servidores de aplicaciones, servidores web, balanceadores de carga, CDN).
+* Familiaridad con herramientas comerciales y de código abierto de análisis de vulnerabilidades y pentesting: Burp Suite, OWASP ZAP, Nmap, SQLMap, ffuf, Nuclei.
+* Experiencia desarrollando código y scripts personalizados (Python, JavaScript, Bash).
+* Familiaridad con arquitectura y protocolos de redes IP, sistemas operativos Windows y Linux, enrutamiento, tecnologías y protocolos web, lenguajes de programación y scripting comunes, bases de datos SQL y consultas, y el top 10 de OWASP.
+* En 2026 se valora especialmente: pruebas de APIs (REST/GraphQL), seguridad de microservicios, contenedores y aplicaciones en la nube.
 
+# Habilidades blandas
 
-# Education
-  * Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience
+* Excelentes habilidades de presentación y comunicación para interactuar eficazmente con la dirección y los clientes.
+* Capacidad para articular conceptos complejos con claridad (por escrito y verbalmente).
+* Capacidad de escucha activa (especialmente con los clientes).
 
+# Educación
 
-# Certification
-  * eWPT
-  * SEC542
-  * EWPTX
-  * SEC642
-  
+  * Grado en Ciencias de la Computación, Ingeniería Informática, Ingeniería Eléctrica o experiencia equivalente.
 
+# Certificaciones
 
-# Job Salary
+  * eWPT / eWPTX (INE eLearnSecurity, web)
+  * GWAPT (SANS/GIAC, Web Application Penetration Testing)
+  * OSWE (OffSec, Web Expert — explotación de código y bypass de autenticación)
+  * CREST CPSA/CRT (Reino Unido)
+  * CompTIA PenTest+
 
+# Salario por región (2026)
+
+Cifras anuales brutas aproximadas `P25 <= Mediana <= P75`.
 
 ## Asia
-$58K <= $76K <= $85K
+$46K <= $68K <= $105K
 
+## África
+$28K <= $43K <= $72K
 
-## Africa
-$30K <= $43K <= $61K
+## Norteamérica
+$88K <= $118K <= $160K
 
+## Sudamérica
+$45K <= $66K <= $98K
 
-## North America
-$65K <= $81K <= $111K
+## Europa
+€42K <= €58K <= €88K (Reino Unido: £35K <= £50K <= £78K)
 
+## Oceanía
+AU$78K <= AU$100K <= AU$145K
 
-## South America
-$56K <= $70K <= $78K
+# Preguntas de entrevista
 
+ * Preguntas de AppSec web (Synopsys): https://www.synopsys.com/blogs/software-security/web-appsec-interview-questions/
+ * Repositorio ofensivo de preguntas de entrevista: https://github.com/WebBreacher/offensiveinterview
 
-## Europe
-£31,624 <= £60,999 <= £98,499
- 
+# Recursos de formación
 
-## Oceania
-AU$60K <= AU$69,990 <= AU$75K
-
-
-# Interview Questions
- * https://www.synopsys.com/blogs/software-security/web-appsec-interview-questions/
- * https://medium.com/@techcluesblog/penetration-testing-interview-questions-22842d4d668f
-
-
-# Training Resources
-  * https://start.me/p/PwmnBd/web
-
-
-
+  * Academia Web de PortSwigger: https://portswigger.net/web-security
+  * Guía de pruebas de OWASP WSTG: https://owasp.org/www-project-web-security-testing-guide/
+  * Laboratorios prácticos: https://www.hackthebox.com/

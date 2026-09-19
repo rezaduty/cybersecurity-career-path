@@ -1,75 +1,73 @@
-# Summary
-Red Team performs group wide adversarial threat emulation activities to aid in the assessment of control and process effectiveness, against highly skilled and sophisticated attacker(s). The team operates across physical, people, process and technology in an effort to achieve well defined engagement goals and provide clarity on control effectiveness and gaps discovered along the attack path travelled across protect, monitor and response.
+# Resumen
 
+El Equipo Rojo (Red Team) realiza actividades de emulación de amenazas adversarias a nivel de toda la organización para ayudar a evaluar la eficacia de los controles y procesos frente a atacantes altamente cualificados y sofisticados. El equipo opera en el plano físico, de personas, de procesos y de tecnología con el objetivo de lograr metas de compromiso bien definidas, ofreciendo claridad sobre la eficacia de los controles y las brechas descubiertas a lo largo de la ruta de ataque en las fases de proteger, monitorizar y responder.
 
-# Baseline
+# Requisitos previos
 
-* 
+* 3+ años de experiencia en seguridad de la información
+* Sólida base ofensiva (OSCP o equivalente) y experiencia en pentest en proyectos reales
 
+# Habilidades técnicas
 
+* 3+ años de experiencia ejecutando pruebas de penetración de aplicaciones web, redes y sistemas para clientes.
+* Experiencia en desarrollo de aplicaciones web, administración de sistemas y ciclo de vida de desarrollo de software y sistemas.
+* Experiencia en red teaming y explotación encubierta de redes informáticas.
+* Experiencia en lenguajes de scripting comunes: Python, Ruby, Lua, PowerShell, BASH.
+* Experiencia en al menos un lenguaje de desarrollo: Java, C, C#, Rust o similar.
+* Buen entendimiento de la pila OSI y los protocolos de las capas 1 a 7, incluidos SNMP, HTTP, VPN, 802.11.
+* Comprensión de sistemas de control industrial, incluido SCADA/ICS.
+* Experiencia con herramientas de post-explotación: Cobalt Strike, Sliver, Metasploit, Havoc, Brute Ratel C4.
+* Familiaridad con emulación de adversarios basada en MITRE ATT&CK y planificación de campañas (por ejemplo, Buy-In, Engagement Frameworks de las guías de ATT&CK).
 
-# Hard Skills
-* Overall 3+ years of Information Security experience.
-* 3+ years of experience with executing web application, network, and system penetration tests for clients
-* Experience with web application development, system administration, and the software and system development life cycle
-* Experience with red-teaming and covert computer network exploitation
-* Experience in common scripting languages such as Python, Ruby, LUA, Powershell or BASH
-* Experience in at least one development language e.g. Java, C, C# or similar
-* A good understanding of the OSI stack and the various protocols from layer 1 – 7 including SNMP, HTTP, VPN, 802.11.
-* Understanding of Industrial control systems including SCADA
-* Experience with Post Exaploitation tools such as CobaltStrike, Canvas, etc.
+# Habilidades blandas
 
+* Capacidad para articular conceptos complejos con claridad (por escrito y verbalmente).
+* Excelentes habilidades de autonomía (automotivación, organización, gestión personal de proyectos).
+* Capacidad para pensar fuera de la caja y emular enfoques adversarios.
 
-# Soft Skills
-* Ability to clearly articulate complex concepts (both written and verbally).
-* Excellent independent (self-motivational, organizational, personal project management) skills.
-* Ability to think outside the box and emulate adversarial approaches.
+# Educación
 
+  * Grado en Ciencias de la Computación, Ingeniería Informática, Ingeniería Eléctrica o experiencia equivalente.
 
-# Education
-  * Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience
+# Certificaciones
 
+  * OSCP → OSEP (Evasion of Defenses) — la combinación patrón del red teamer en 2026
+  * CREST CRT / CCT (APMG) / CREST OSTM/OSSA
+  * PNPT (TCM Security, orientada a entornos empresariales)
+  * GXPN (SANS/GIAC, Exploit Research & Advanced Penetration Testing)
+  * PTS/PTE (INE) como base conceptual
 
-# Certification
-  * ECPTX
-  * EWPTX
-  * OSWE
-  * OSCE
+# Salario por región (2026)
 
-
-# Job Salary
+Cifras anuales brutas aproximadas `P25 <= Mediana <= P75`.
 
 ## Asia
-$29K <= $60K <= $110K
+$45K <= $75K <= $130K
 
+## África
+$30K <= $48K <= $85K
 
-## Africa
-$19K <= $34K <= $60K
+## Norteamérica
+$100K <= $140K <= $200K
 
+## Sudamérica
+$45K <= $70K <= $110K
 
-## North America
-$33K <= $71K <= $156K
+## Europa
+€52K <= €75K <= €115K (Reino Unido: £45K <= £65K <= £100K)
 
+## Oceanía
+AU$85K <= AU$120K <= AU$170K
 
-## South America
-$29K <= $58K <= $91K
+# Preguntas de entrevista
 
+ * Artículo de Malcolm Vetter sobre entrevistas de Red Team: https://malcolmvetter.medium.com/how-to-pass-a-red-team-interview-9155828cfa1c
+ * Repositorio de preguntas ofensivas: https://github.com/WebBreacher/offensiveinterview
+ * Guía de entrevista de Red Teamer: https://blog.redteam.pl/2023/03/how-to-become-red-teamer-2023.html
 
-## Europe
-£45,624 <= £69,999 <= £83,499
- 
+# Recursos de formación
 
-## Oceania
-AU$58K <= AU$83,990 <= AU$120K
-
-
-# Interview Questions
- * https://medium.com/@malcomvetter/how-to-pass-a-red-team-interview-9155828cfa1c
- * https://github.com/WebBreacher/offensiveinterview
-
-
-# Training Resources
-  * RTFM Book
-
-
-
+  * MITRE ATT&CK: https://attack.mitre.org/
+  * Libro RTFM (guía de referencia ofensiva): https://github.com/trustedsec/rtfm
+  * Hack The Box (Aced + red team tracks): https://www.hackthebox.com/blog/acered — https://academy.hackthebox.com/
+  * Podcast/lecciones de John Strand (Black Hills InfoSec) sobre Red Team: https://www.blackhillsinfosec.com/

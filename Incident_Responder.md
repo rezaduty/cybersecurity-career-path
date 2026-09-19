@@ -1,78 +1,76 @@
-# Summary
-Performs forensic analysis of digital information and gathers and handles evidence.Identifies network computer intrusion evidence and perpetrators, and coordinates with other government agencies to record and report incidents.Participate in collaborative sessions with other CNDSPs and IC agencies on malicious intrusions, attacks or suspicious activities, as well as share emerging Cyber Threat Intel data.Assist in the development of Indicators of Compromise for active defensive countermeasures and passive detection signatures. Position may require evening, weekend or shift-work (depending on operational tempo).
+# Resumen
 
-# Baseline
+Realiza análisis forense de la información digital y recopila y gestiona evidencias. Identifica evidencias de intrusión de redes informáticas y a los perpetradores, y coordina con otras agencias gubernamentales el registro y reporte de incidentes. Participa en sesiones colaborativas con otros CSP/DSP y agencias de inteligencia sobre intrusiones maliciosas, ataques o actividades sospechosas, así como en el intercambio de datos emergentes de inteligencia de ciberamenazas. Asiste en el desarrollo de Indicadores de Compromiso (IOCs) para contramedidas defensivas activas y firmas de detección pasiva. El puesto puede requerir trabajo nocturno, de fin de semana o por turnos (según el ritmo operativo).
 
-* 
+# Requisitos previos
 
+* Experiencia previa en SOC, forense o administración de sistemas
+* Conocimientos de redes, sistemas operativos y análisis de datos
 
-# Hard Skills
-* Hands-on experience in data analysis (preferably network traffic or log analysis) in relevant data analysis and data science platforms (Jupyter, Splunk, pandas, SQL)
-* Familiarity with cloud infrastructure, web application and servers, android and iOS mobile platforms
-* Experience with malware analysis and reverse engineering
-* Familiarity with enterprise SIEM platforms (e.g. Splunk, QRadar, ArcSight)
-* Fluency with one or more scripting language (i.e. Python)
-* Performs forensic analysis of digital information and gathers and handles evidence. Identifies network computer intrusion evidence and perpetrators.
-* Identifies network computer intrusion evidence and perpetrators, and coordinates with other government agencies to record and report incidents.
-* Participate in collaborative sessions with other CNDSPs and IC agencies on malicious intrusions, attacks or suspicious activities, as well as share emerging Cyber Threat Intel data.
-* Assist in the development of Indicators of Compromise for active defensive countermeasures and passive detection signatures.
-* Research and produce analysis on nation state cyber threat actors.
-* Utilize internal and open source research for awareness of nation stated targeting, trends, etc.
-* Develop strategic cyber threat intelligence products in support of network defense operations
-* Position may require evening, weekend or shift-work (depending on operational tempo).
+# Habilidades técnicas
 
+* Experiencia práctica en análisis de datos (preferiblemente análisis de tráfico de red o logs) en plataformas y herramientas relevantes: Jupyter, Splunk, pandas, SQL, Kusto.
+* Familiaridad con infraestructura cloud, aplicaciones y servidores web, y plataformas móviles Android e iOS.
+* Experiencia con análisis de malware e ingeniería inversa.
+* Familiaridad con plataformas SIEM empresariales: Splunk ES, Microsoft Sentinel, QRadar, ArcSight, CrowdStrike.
+* Dominio de uno o más lenguajes de scripting (Python, PowerShell, Bash).
+* Realizar análisis forense de la información digital, recopilar y manejar evidencias, e identificar evidencias y perpetradores de intrusiones de red.
+* Coordinar con otras agencias gubernamentales el registro y reporte de incidentes.
+* Participar en sesiones colaborativas con otros CNDSP y agencias de inteligencia sobre intrusiones maliciosas y compartir datos emergentes de inteligencia de ciberamenazas.
+* Asistir en el desarrollo de Indicadores de Compromiso (IOCs) para contramedidas defensivas activas y firmas de detección pasiva.
+* Investigar y producir análisis sobre actores de ciberamenazas de estados-nación.
+* Utilizar investigación interna y de código abierto para el conocimiento del targeting de estados, tendencias, etc.
+* Desarrollar productos estratégicos de inteligencia de ciberamenazas en apoyo de las operaciones de defensa de red.
+* DFIR moderno: recolección de memoria y disco (Velociraptor, KAPE, FTK Imager, dd), análisis de memoria (Volatility 3), análisis de artefactos (Timeline Explorer, Eric Zimmerman tools), y análisis de tráfico de red (Zeek, Suricata).
 
+# Habilidades blandas
 
+* Aprendizaje continuo en el trabajo.
+* Comunicación clara de hallazgos técnicos en informes ejecutivos y testimonios técnicos.
+* Calma y método bajo presión durante incidentes activos.
 
+# Educación
 
-# Soft Skills
-* Continuous learning on the job
-* You want to build things, not just break them
+  * Grado en Ciencias de la Computación, Ingeniería Informática, Ingeniería Eléctrica o experiencia equivalente.
 
+# Certificaciones
 
-# Education
-  * Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience
+  * FOR508 / GCFA (SANS/GIAC, Advanced Incident Response)
+  * FOR578 / GCTI (SANS/GIAC, Cyber Threat Intelligence) o GNFA/GCFR (redes y respuesta)
+  * eCIR (INE, Certified Incident Responder)
+  * CHFI (EC-Council, Computer Hacking Forensic Investigator)
+  * Certified CyberDefender (CCD), Nivel 2, en alza en 2026
 
+# Salario por región (2026)
 
-# Certification
-  * FOR508
-  * SEC504
-  * eCIR
-
-
-# Job Salary
+Cifras anuales brutas aproximadas `P25 <= Mediana <= P75`.
 
 ## Asia
-$69K <= $89K <= $111K
+$45K <= $68K <= $100K
 
+## África
+$32K <= $48K <= $75K
 
-## Africa
-$49K <= $64K <= $79K
+## Norteamérica
+$90K <= $125K <= $175K
 
+## Sudamérica
+$45K <= $65K <= $95K
 
-## North America
-$61K <= $86K <= $102K
+## Europa
+€42K <= €60K <= €90K (Reino Unido: £35K <= £52K <= £80K)
 
+## Oceanía
+AU$80K <= AU$105K <= AU$150K
 
-## South America
-$72K <= $96K <= $132K
+# Preguntas de entrevista
 
+ * Repositorio de preguntas DFIR (aubsec): https://medium.com/@aubsec/dfir-interivew-questions-68ec48ea570f
+ * Blog de DFIR de SANS: https://www.sans.org/blog/
+ * Blog de Incident Response de Mandiant: https://www.mandiant.com/resources/blog
 
-## Europe
-£55,624 <= £68,999 <= £120,499
- 
+# Recursos de formación
 
-## Oceania
-AU$78K <= AU$108,990 <= AU$191K
-
-
-# Interview Questions
- * https://resources.infosecinstitute.com/top-30-incident-responder-interview-questions-and-answers-for-2019/#gref
- * https://medium.com/@aubsec/dfir-interivew-questions-68ec48ea570f
-
-
-# Training Resources
-  * 
-
-
-
+  * CyberDefenders (labs DFIR prácticos): https://cyberdefenders.org/
+  * Documentación de Velociraptor y Volatility: https://docs.velociraptor.app/ | https://volatility3.readthedocs.io/
+  * SANS DFIR Summit y recursos gratuitos: https://www.sans.org/cyber-security-summit/

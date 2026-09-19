@@ -1,76 +1,80 @@
-# Summary
-The Cyber Threat and Intelligence Analyst will support the customer's overall cyber threat analysis efforts. Researches, analyzes, writes, edits, and proofreads technical data for use in documents such as cybersecurity intelligence bulletins, alerts, and briefings. Attends meetings such as those that determine workflow, requirements, and other required documentation as part of contract deliverables. Ensures documentation is accurate, complete, meets editorial and government specifications, and adheres to standards for quality, graphics, coverage, format, and style. Participates in establishing style guidelines and standards for text and illustrations. Contributes to development, writing, and reviewing of SOPs.
+# Resumen
 
-# Baseline
+El Analista de Inteligencia de Ciberamenazas apoyará los esfuerzos de análisis integral de amenazas cibernéticas del cliente. Investiga, analiza, redacta, edita y revisa datos técnicos para su uso en documentos como boletines de inteligencia de ciberseguridad, alertas y briefings. Asiste a reuniones como las que determinan el flujo de trabajo, los requisitos y otra documentación requerida como parte de los entregables del contrato. Garantiza que la documentación sea precisa, completa, cumpla las especificaciones editoriales y gubernamentales, y se adhiera a los estándares de calidad, gráficos, cobertura, formato y estilo. Participa en el establecimiento de guías de estilo y estándares para texto e ilustraciones. Contribuye al desarrollo, redacción y revisión de SOP (procedimientos operativos estándar).
 
-* 
+En 2026, este rol combina ciberinteligencia (CTI-DT) con producción editorial y analítica: convertir datos masivos de fuentes abiertas, feeds de inteligencia y telemetría en productos de inteligencia accionables para la toma de decisiones de seguridad.
 
+# Requisitos previos
 
-# Hard Skills
-* Working as expert, conduct research and evaluate technical and all-source intelligence with specific emphasis on network operations and cyber warfare tactics, techniques, and procedures focused on the threat to networked weapons platforms and US and DoD information networks.
-* Analyzes network events to determine the impact on current operations and conduct all-source research to determine advisory capability and intent.
-* Prepares assessments and cyber threat profiles of current events based on the sophisticated collection, research and analysis of classified and open source information. Correlates threat data from various sources.
-* Develops and maintains analytical procedures to meet changing requirements and ensure maximum operations.
-* Understanding of adversarial TTPs
-* Understanding of threat actor infrastructure
-* Experience using technical information to bolster intelligence analysis
-* Ability to draft, modify and create SOP for use of other team members
-* Experience working with open source and social media data platforms to evaluate publicly available information for suspicious or malicious activities
-* Demonstrated expertise in deploying and maintaining tools to facilitate the flow of intelligence analysis and reports.
-* Experience with All Source production and knowledge of cyber/technical intelligence
-* Experience writing contract deliverables such as Event Bulletins, Cyber Digests, and Quarterly Summary Report
+* Conocimientos de análisis de inteligencia o experiencia en ciberseguridad defensiva
+* Capacidad analítica y de redacción técnica
 
+# Habilidades técnicas
 
-# Soft Skills
-* Excellent written and verbal communication skills.
-* Handles multiple competing priorities in a fast-paced, deadline-driven environment.
-* Demonstrated ability to deal with ambiguity in a rapidly changing business environment.
-* Ability to exercise sound judgement, problem solve, and make decisions in complex situations.
-* Proven ability to take ownership, self-motivate, and deliver results in highly ambiguous environments.
+* Actuar como experto, realizar investigación y evaluar inteligencia técnica y de todas las fuentes (all-source), con especial énfasis en operaciones de red y tácticas, técnicas y procedimientos (TTPs) de guerra cibernética centrados en la amenaza contra plataformas de armamento en red y redes de información de EE. UU. y del DoD.
+* Analizar eventos de red para determinar el impacto en las operaciones actuales y realizar investigación all-source para determinar la capacidad e intención del adversario.
+* Preparar evaluaciones y perfiles de amenazas cibernéticas de eventos actuales basados en la recolección sofisticada, investigación y análisis de información clasificada y de código abierto. Correlacionar datos de amenazas de varias fuentes.
+* Desarrollar y mantener procedimientos analíticos para cumplir los requisitos cambiantes y garantizar el máximo rendimiento operativo.
+* Comprensión de las TTPs adversarias.
+* Comprensión de la infraestructura de los actores de amenazas.
+* Experiencia usando información técnica para reforzar el análisis de inteligencia.
+* Capacidad de redactar, modificar y crear SOP para uso de otros miembros del equipo.
+* Experiencia trabajando con plataformas de datos de código abierto y redes sociales para evaluar información disponible públicamente en busca de actividades sospechosas o maliciosas (OSINT, dark web, surface).
+* Experiencia demostrada en el despliegue y mantenimiento de herramientas para facilitar el flujo de análisis e informes de inteligencia (MISP, OpenCTI, TheHive/Cortex, feeds STIX-TAXII).
+* Experiencia con producción all-source y conocimiento de inteligencia cibernética/técnica.
+* Experiencia redactando entregables contractuales como boletines de eventos, resúmenes cibernéticos e informes resumidos trimestrales.
+* (2026) Conocimiento de fuentes de inteligencia, el ciclo de inteligencia, evaluación de credibilidad de fuentes (ADL - Admiralty Code) y analíticas de inteligencia apoyadas en IA (sumarización, traducción, correlación con LLMs) con revisión humana.
 
+# Habilidades blandas
 
-# Education
-  * Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience
+* Excelentes habilidades de comunicación escrita y verbal.
+* Maneja múltiples prioridades en competencia en un entorno de ritmo rápido y orientado a plazos.
+* Capacidad demostrada de lidiar con la ambigüedad en un entorno empresarial que cambia rápidamente.
+* Capacidad de ejercer buen juicio, resolver problemas y tomar decisiones en situaciones complejas.
+* Capacidad demostrada de asumir responsabilidad, automotivarse y entregar resultados en entornos altamente ambiguos.
+* Discreción y manejo ético de información sensible.
 
+# Educación
 
-# Certification
-  * SEC555
-  * FOR578
+  * Grado en Ciencias de la Computación, Ingeniería Informática, Ingeniería Eléctrica o experiencia equivalente. Formación en relaciones internacionales o inteligencia (valiosa).
 
+# Certificaciones
 
-# Job Salary
+  * GCTI (SANS/GIAC, Cyber Threat Intelligence)
+  * CTIA (EC-Council, Certified Threat Intelligence Analyst)
+  * SEC450 (SANS, Blue Team Operations de SIGMA/analítica) complementaria
+  * (Ámbito defensa/gobierno) autorizaciones y clearances (TS/SCI) según el puesto
 
+# Salario por región (2026)
+
+Cifras anuales brutas aproximadas `P25 <= Mediana <= P75`.
 
 ## Asia
-$56K <= $96K <= $108K
+$45K <= $68K <= $100K
 
+## África
+$32K <= $48K <= $75K
 
-## Africa
-$48K <= $76K <= $102K
+## Norteamérica
+$90K <= $125K <= $175K
 
+## Sudamérica
+$45K <= $65K <= $95K
 
-## North America
-$61K <= $84K <= $129K
+## Europa
+€45K <= €65K <= €95K (Reino Unido: £42K <= £58K <= £85K)
 
+## Oceanía
+AU$80K <= AU$105K <= AU$145K
 
-## South America
-$72K <= $96K <= $132K
+# Preguntas de entrevista
 
+ * Preguntas de analista de ciberseguridad (Dice, actualizado): https://insights.dice.com/cybersecurity-analyst-interview-questions/
+ * Guías y casos del ciclo de inteligencia de SANS: https://www.sans.org/blog/what-is-cyber-threat-intelligence/
 
-## Europe
-£45,624 <= £69,999 <= £82,499
- 
+# Recursos de formación
 
-## Oceania
-AU$53K <= AU$92,990 <= AU$140K
-
-
-# Interview Questions
- * https://insights.dice.com/2020/04/22/cybersecurity-analyst-interview-questions-4-prep-considerations/
-
-
-# Training Resources
-  * 
-
-
-
+  * MISP (plataforma de intercambio y análisis de inteligencia): https://www.misp-project.org/
+  * OpenCTI (plataforma abierta de inteligencia de ciberamenazas): https://www.opencti.io/
+  * STIX/TAXII (estándares de publicación de inteligencia): https://oasis-open.github.io/cti-documentation/
+  * Curso de OSINT y verificación (Krebs/exe) y recursos de la comunidad (IntelTechniques): https://inteltechniques.com/

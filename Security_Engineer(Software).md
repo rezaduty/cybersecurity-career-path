@@ -1,71 +1,75 @@
-# Summary
-Information systems security engineers (ISSE), help businesses keep sensitive data safe. Data may include confidential client records such as patient records at a hospital, trade secrets, and financial records that are all potential targets from cyber-attacks. Being an ISSE plays important roles in guarding businesses, government, and individuals against hackers and cyber-criminals who are always creating new ways to infiltrate sensitive databases.
+# Resumen
 
-# Baseline
+Los ingenieros de seguridad de sistemas de información (ISSE) ayudan a las empresas a mantener seguros los datos sensibles. Los datos pueden incluir registros confidenciales de clientes como historiales de pacientes en un hospital, secretos comerciales y registros financieros, todos objetivos potenciales de ciberataques. Ser un ISSE juega un papel importante en la protección de empresas, gobiernos y personas frente a hackers y ciberdelincuentes que siempre crean nuevas formas de infiltrarse en bases de datos sensibles. En 2026 es un rol sénior muy buscado, frecuentemente denominado Application Security Engineer o Product Security Engineer.
 
-* 
+# Requisitos previos
 
-# Hard Skills
-* At least 5+ years of experience in application security
-* Strong communication skills and ability to work in a team
-* Expertise with common security testing methodologies
-* Experience with automated or otherwise highly scalable application security solutions
-* Experience with building and customizing tools
-* Experience securing cloud environments (Azure, AWS)
-* Strong demonstrated knowledge of web protocols and an in-depth knowledge of Windows, Linux and/or Unix tools and architecture
-* Ability to accurately weight security risks against business operations and goals
-* Strong foundation in applied cryptography
-* Experience with SAST, DAST, and SCA
-* Experience with automation tools and deployments
-* Excellent written and oral communication skills, as well as interpersonal skills including the ability to articulate to both technical and non-technical audiences
+* 3-5+ años de experiencia en seguridad de aplicaciones o de software
+* Sólidos conocimientos de desarrollo de software y de prácticas seguras
 
+# Habilidades técnicas
 
-# Soft Skills
-* Excellent presentation and communications skills to effectively communicate with management and customers.
-* Ability to clearly articulate complex concepts (both written and verbally).
-* Ability, understanding, and usage of active listening skills (especially with customers!).
+* Al menos 5+ años de experiencia en seguridad de aplicaciones.
+* Fuertes habilidades de comunicación y capacidad de trabajar en equipo.
+* Experiencia con metodologías comunes de pruebas de seguridad.
+* Experiencia con soluciones de seguridad de aplicaciones automatizadas o altamente escalables.
+* Experiencia construyendo y personalizando herramientas.
+* Experiencia asegurando entornos cloud (Azure, AWS, GCP).
+* Sólido conocimiento demostrado de protocolos web y conocimiento profundo de herramientas y arquitectura de Windows, Linux y/o Unix.
+* Capacidad de ponderar con precisión los riesgos de seguridad frente a las operaciones y objetivos de negocio.
+* Sólida base en criptografía aplicada.
+* Experiencia con SAST, DAST y SCA.
+* Experiencia con herramientas de automatización y despliegue.
+* Excelentes habilidades de comunicación oral y escrita, así como interpersonales, incluida la capacidad de dirigirse a audiencias técnicas y no técnicas.
+* (2026) Conocimientos de seguridad de IA/ML, threat modeling (STRIDE), y gestionar un programa de bug bounty/vulnerabilidades de producto.
 
+# Habilidades blandas
 
-# Education
-  * Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience
+* Excelentes habilidades de presentación y comunicación para interactuar eficazmente con la dirección y los clientes.
+* Capacidad para articular conceptos complejos con claridad (por escrito y verbalmente).
+* Capacidad de escucha activa (especialmente con los clientes).
 
+# Educación
 
-# Certification
-  * 
+  * Grado en Ciencias de la Computación, Ingeniería Informática, Ingeniería Eléctrica o experiencia equivalente.
 
+# Certificaciones
 
-# Job Salary
+  * CSSLP (ISC2) — específica para ingenieros de seguridad de software
+  * GWEB / GSSP (SANS/GIAC) o GSEC
+  * OSCP o equivalente ofensivo (muy común en 2026 en roles AppSec/Product Security)
+  * Certificaciones de cloud: AWS Security Specialty, Azure AZ-500
 
+# Salario por región (2026)
+
+Cifras anuales brutas aproximadas `P25 <= Mediana <= P75`.
 
 ## Asia
-$67K <= $79K <= $105K
+$60K <= $85K <= $125K
 
+## África
+$42K <= $60K <= $90K
 
-## Africa
-$41K <= $54K <= $79K
+## Norteamérica
+$115K <= $155K <= $210K
 
+## Sudamérica
+$55K <= $80K <= $120K
 
-## North America
-$73K <= $100K <= $130K
+## Europa
+€55K <= €80K <= €120K (Reino Unido: £50K <= £72K <= £110K)
 
+## Oceanía
+AU$90K <= AU$120K <= AU$170K
 
-## South America
-$61K <= $88K <= $97K
+# Preguntas de entrevista
 
+ * Repositorio de preguntas de entrevista de Security Engineer: https://github.com/tadwhitaker/Security_Engineer_Interview_Questions
+ * Preguntas de ingeniería de seguridad (devskiller): https://devskiller.com/screen-security-engineer/
+ * Plantillas de entrevista de Product Security (Awesome AppSec): https://github.com/paragonie/awesome-appsec
 
-## Europe
-£43,624 <= £47,999 <= £77,499
- 
+# Recursos de formación
 
-## Oceania
-AU$65K <= AU$71,990 <= AU$96K
-
-
-# Interview Questions
- * https://github.com/tadwhitaker/Security_Engineer_Interview_Questions
-
-# Training Resources
-  * https://devskiller.com/screen-security-engineer/
-
-
-
+  * OWASP SAMM y Threat Modeling playbook: https://owasp.org/www-project-samm/ | https://owasp.org/www-project-threat-modeling/
+  * Academia Web de PortSwigger: https://portswigger.net/web-security
+  * Secure Code Warrior (formación de código seguro): https://securecodewarrior.com/

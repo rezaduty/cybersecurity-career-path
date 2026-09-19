@@ -1,69 +1,73 @@
-# Summary
-Has a strong track record of working with engineering and product teams on assessing applications against security standards, conducting risk-based assessments of application security practices, designing secure systems, and driving security by building close working partnerships with Product and Engineering professionals.
+# Resumen
 
-# Baseline
+El investigador de seguridad tiene un sólido historial de trabajo con equipos de ingeniería y producto evaluando aplicaciones frente a estándares de seguridad, realizando evaluaciones basadas en riesgo de las prácticas de seguridad de las aplicaciones y diseñando sistemas seguros. Su trabajo es bidireccional: identificar vulnerabilidades (a menudo 0-days o complejas en productos propios o de terceros) y ayudar a los equipos de ingeniería a arreglarlas, impulsando la seguridad mediante alianzas técnicas con Producto e Ingeniería.
 
-* 
+# Requisitos previos
 
-# Hard Skills
-* 5+ Years' experience in Security Research, Web-Application & Network Penetration Testing or adjacent fields.
-* Deep knowledge of the cyber security threat landscape, attacker mind-set and trends.
-* Understand and apply attack and penetration concepts including the attack surface; identification of system software and configuration vulnerabilities and critical information, data and processes that must be protected.
-* Software development experience/proficiency in multiple languages, mainly C/C++ and other object-oriented platforms. Experience with scripting languages such as Python/Perl/Ruby.
-* Operating System internals: PE, ELF, kernel, processes, networking, and hypervisors.
-* Experience with reverse engineering tools (e.g. disassemblers, debuggers, instrumentation frameworks, etc.).
-* Basic understanding of concepts in vulnerability research: Shell code, ROP, ASLR, exploit types, and heap manipulation.
-* An understanding of fault injection and side channel attacks
-* An understanding of past, current, and emerging security exploit types
-* Reverse engineering capabilities + working knowledge in IDA
-* Familiarity with secure bootloaders
+* Base ofensiva sólida (pentest) o experiencia en ingeniería inversa
+* 3-5 años de experiencia práctica en investigación y análisis
 
+# Habilidades técnicas
 
-# Soft Skills
-* Team player with good interpersonal skills
+* 5+ años de experiencia en investigación de seguridad, pentesting de aplicaciones web y redes, o campos adyacentes.
+* Conocimiento profundo del panorama de amenazas de ciberseguridad, la mentalidad del atacante y las tendencias.
+* Comprender y aplicar conceptos de ataque y penetración, incluidas la superficie de ataque; la identificación de vulnerabilidades de software y configuración del sistema; e información, datos y procesos críticos que deben protegerse.
+* Experiencia/dominio en desarrollo de software en múltiples lenguajes, principalmente C/C++ y otras plataformas orientadas a objetos. Experiencia con lenguajes de scripting como Python/Perl/Ruby.
+* Internals de sistemas operativos: PE, ELF, kernel, procesos, redes e hipervisores.
+* Experiencia con herramientas de ingeniería inversa (desensambladores, depuradores, frameworks de instrumentación, etc.).
+* Comprensión básica de los conceptos de la investigación de vulnerabilidades: shellcode, ROP, ASLR, tipos de exploits y manipulación del heap.
+* Comprensión de la inyección de fallos (fault injection) y los ataques de canal lateral.
+* Comprensión de los tipos de exploits de seguridad pasados, actuales y emergentes (incluidos los relacionados con IA/ML model stealing, evasión y seguridad de la cadena de suministro de software en 2026).
+* Capacidades de ingeniería inversa y conocimiento práctico de IDA Pro / Ghidra.
+* Familiaridad con bootloaders seguros y elementos/plataformas de seguridad hardware.
+* Experiencia pública investigadora (CVEs, blogs, charlas) muy valorada.
 
+# Habilidades blandas
 
-# Education
-  * Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience
+* Buen trabajo en equipo y habilidades interpersonales.
+* Comunicación clara de hallazgos (informes de calidad, divulgación responsable).
 
+# Educación
 
-# Certification
-  * 
+  * Grado en Ciencias de la Computación, Ingeniería Informática, Ingeniería Eléctrica o experiencia equivalente. (Doctorado valorado en roles de investigación profunda.)
 
+# Certificaciones
 
-# Job Salary
+  * GXPN (SANS/GIAC, Exploit Research & Advanced Penetration Testing)
+  * GREM / FOR610 (ingeniería inversa de malware)
+  * OSEE / OSED (OffSec, ingeniería de exploits)
+  * (No obligatorio) Puntuación en programas de bug bounty / CVEs personales son la mejor "certificación" real.
 
+# Salario por región (2026)
+
+Cifras anuales brutas aproximadas `P25 <= Mediana <= P75`.
 
 ## Asia
-$70K <= $90K <= $109K
+$55K <= $80K <= $120K
 
+## África
+$38K <= $55K <= $85K
 
-## Africa
-$44K <= $60K <= $79K
+## Norteamérica
+$110K <= $150K <= $210K
 
+## Sudamérica
+$50K <= $75K <= $115K
 
-## North America
-$75K <= $100K <= $126K
+## Europa
+€50K <= €75K <= €115K (Reino Unido: £45K <= £70K <= £105K)
 
+## Oceanía
+AU$85K <= AU$115K <= AU$165K
 
-## South America
-$61K <= $74K <= $100K
+# Preguntas de entrevista
 
+ * Preguntas de investigador de vulnerabilidades (InfoSec Institute, actualizado): https://www.infosecinstitute.com/career-profiles/vulnerability-researcher/
+ * Comunidad de Zero Day Initiative: https://www.zerodayinitiative.com/blog
 
-## Europe
-£33,624 <= £63,999 <= £90,499
- 
+# Recursos de formación
 
-## Oceania
-AU$48K <= AU$69,990 <= AU$77K
-
-
-# Interview Questions
- * https://resources.infosecinstitute.com/top-30-vulnerability-researcher-interview-questions-and-answers-for-2019/#gref
-
-
-# Training Resources
-  * 
-
-
-
+  * Proyecto OWASP (WSTG, MAS, threat modeling): https://owasp.org/
+  * Blog de Project Zero (Google): https://googleprojectzero.blogspot.com/
+  * Libro "The Art of Software Security Assessment" (Dowd, McDonald, Schuh)
+  * Curso "Attacking and Defending" de PortSwigger y CTF de pwn/rev para entrenamiento continuo
