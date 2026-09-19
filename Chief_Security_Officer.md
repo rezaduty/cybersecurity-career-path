@@ -1,87 +1,83 @@
-# Summary
+# Resumen
 
-Most Senior Executive accountable for Security
+El ejecutivo de mayor rango responsable de la seguridad de toda la organización (física, de personal, técnica y cibernética). A diferencia del rol de CISO (más enfocado en ciberseguridad y tecnologías de la información), el CSO supervisa la seguridad de la empresa de forma integral, incluida la protección física, la inteligencia, el cumplimiento de seguridad y, según el tamaño de la empresa, la gestión de riesgos empresariales. Es habitual en organizaciones grandes, gobiernos y empresas con programas de seguridad clasificada. En 2026, este rol suele fusionarse o coexistir con el CISO según la estructura; cuando coexisten, el CSO es el superior jerárquico.
 
-# Baseline
+# Requisitos previos
 
-* 
+* Amplia experiencia demostrada liderando funciones de seguridad corporativas
+* Gestión presupuestaria y de equipos grandes, y entendimiento del negocio (con frecuencia en sectores regulados o de defensa)
 
+# Habilidades técnicas
 
+* Conocimiento profundo de las disciplinas de seguridad: inspección/compliance de seguridad gubernamental, sistemas de información clasificada (aseguramiento de la información), protección de programas, seguridad física y técnica, amenaza interna, contrainteligencia, investigaciones, autorizaciones y habilitaciones de personal, seguridad de operaciones (OPSEC), sensibilización, formación y educación en seguridad (SATE).
+* Desarrollar, implementar y supervisar el cumplimiento de las políticas y programas de seguridad en apoyo de clientes gubernamentales (DoD), la Comunidad de Inteligencia y otros. Comprensión profunda de ICDs, NISPOM y políticas SAP.
+* Interactuar activamente con los líderes sénior de seguridad gubernamentales y de la industria.
+* Rol de valor añadido que requiere que la seguridad sea parte de la ventaja competitiva de la empresa.
+* Implementar nuevos requisitos de seguridad de clientes en el equipo y en la empresa.
+* Desarrollar, implementar y monitorizar el progreso hacia los objetivos de la empresa.
+* Planificar y ejecutar el presupuesto de la Oficina de Seguridad.
+* Revisar la seguridad de forma continua para mejoras y avances mediante un programa eficaz de autoevaluación.
+* Liderar el equipo y gestionar el rendimiento, delegando tareas.
+* Desarrollar métricas para el liderazgo ejecutivo y los clientes sobre autorizaciones, instalaciones seguras, sistemas, dotación de personal, etc.
+* Estandarizar las prácticas de seguridad en toda la empresa.
+* Excelente capacidad de comunicación y oratoria.
+* Debe ser capaz de articular claramente los problemas de seguridad, recomendaciones, cambios e implementaciones ante expertos técnicos, liderazgo ejecutivo, clientes y empleados.
+* Capacidad de forjar relaciones sólidas, comunicación y enfoque de equipo con otros departamentos y con el liderazgo ejecutivo.
+* Debe ser capaz de mirar la seguridad de forma estratégica e integrarla en los planes futuros de la empresa, incluidos recursos e impactos financieros.
+* Debe ser capaz de priorizar tareas y manejar múltiples asignaciones simultáneamente.
+* Resolución de problemas con soluciones únicas que satisfagan los requisitos de empresa y cliente.
+* Poseer iniciativa, ser autosuficiente y capaz de operar de forma independiente.
+* Poseer habilidades técnicas y funcionales en múltiples facetas de la seguridad.
+* Comprensión de tecnología de la información y seguridad de la información.
+* Conocimiento de los principios de gestión de riesgos.
+* (2026) Gobierno corporativo, gestión de riesgos y cumplimiento (GRC), resiliencia organizacional y continuidad de negocio.
 
-# Hard Skills
-* In-depth knowledge of Security disciplines: Government Security Inspection/Compliance, classified Information Systems (Information Assurance), Program Protection, Physical/Technical Security, Insider Threat, Counterintelligence, Investigations, Personnel Clearances, Operations Security (OPSEC), Security Awareness, Training and Education (SATE)
-* Develop, implement and oversee compliance with Security policies and programs supporting DOD, Intelligence Community and other Customers. In depth understanding of ICDs, NISPOM and SAP policy.
-* Actively interface with Government and Industry Senior Security Leaders
-* Value added role requiring Security to be a part of the competitive advantage for the Company
-* Implement new Customer security requirements into the Team and Company
-* Develop, implement and monitor progress toward company goals
-* Plan and execute Office of Security budget
-* Review Security on a continuing basis for enhancements and improvements through an effective self-assessment program
-* Lead the Team and manage performance, delegate tasks
-* Develop metrics for Executive Leadership and Customers for clearances, secure facilities, systems, staffing, etc.
-* Standardize security practices across the company 
-* Excellent communications and public speaking ability
-* Must be able to clearly articulate security issues, recommendations, changes, implementation, etc. to technical experts, executive leadership, customers and employees
-* Capable of forging strong relationships, communication and Team approach with other Departments and Executive Leadership
-* Must be able to look at Security strategically and integrate it into future company plans. Includes resources, and financial impacts
-* Must be able to prioritize tasks and handle multiple assignments concurrently
-* Problem solving with unique solutions to meet company and customer requirements
-* Possess initiative, self-starter who can operate independently
-* Possess both technical and functional skills in multiple facets of security
-* Understanding of information technology and information security
-* Knowledge of risk management principles
+# Habilidades blandas
 
+* Excelente comunicación y habilidad de hablar en público.
+* Liderazgo demostrado y gestión de equipos grandes.
+* Participación en grupos de trabajo y foros de clientes y de la industria en apoyo de la seguridad.
 
-# Soft Skills
-* Excellent communications and public speaking ability
-* Demonstrated Leadership and managing large teams
-* Participation in Customer and other working groups and forums supporting Security
+# Educación
 
+  * Grado en Ciencias de la Computación, Ingeniería Informática, Ingeniería Eléctrica o experiencia equivalente. Máster (MBA/MSc) muy valorado.
 
+# Certificaciones
 
-# Education
-  * Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience
+  * CISM (ISACA)
+  * CISSP (ISC2)
+  * ASIS CPP (Certified Protection Professional)
+  * (Adicionales para sectores regulados) PCI, NISPOM/CLEARANCE, CDPSE/CRISC
 
+# Salario por región (2026)
 
-# Certification
-  * CISM
-  * CISSP
-
-
-# Job Salary
-
+Cifras anuales brutas aproximadas `P25 <= Mediana <= P75` (total comp muy variable según sector y tamaño de empresa).
 
 ## Asia
-$207K <= $296K <= $341K
+$120K <= $220K <= $380K
 
+## África
+$80K <= $130K <= $220K
 
-## Africa
-$125K <= $153K <= $272K
+## Norteamérica
+$190K <= $280K <= $480K
 
+## Sudamérica
+$90K <= $150K <= $240K
 
-## North America
-$64K <= $158K <= $257K
+## Europa
+€100K <= €175K <= €300K (Reino Unido: £95K <= £155K <= £260K)
 
+## Oceanía
+AU$140K <= AU$210K <= AU$340K
 
-## South America
-$109K <= $187K <= $267K
+# Preguntas de entrevista
 
+ * Ver preguntas de entrevista de CISO (aplican en gran medida al CSO): https://securityboulevard.com/2018/12/top-30-chief-information-security-officer-ciso-interview-questions-and-answers-for-2018/
+ * Guías de liderazgo de seguridad de la empresa (ASIS): https://www.asisonline.org/
 
-## Europe
-£86K <= £117K <= £128K
- 
+# Recursos de formación
 
-## Oceania
-AU$109K <= AU$152K <= AU$182K
-
-
-
-# Interview Questions
- * https://securityboulevard.com/2018/12/top-30-chief-information-security-officer-ciso-interview-questions-and-answers-for-2018/
-
-
-# Training Resources
-  * 
-
-
-
+ * ASIS International (formación y certificaciones de gestión de seguridad): https://www.asisonline.org/
+ * Publicaciones de CISO/CSO (CSO Online): https://www.csoonline.com/
+ * Cursos de liderazgo ejecutivo de seguridad: programas de INSEAD/IESE executive education y del club CISOlatam

@@ -1,73 +1,75 @@
-# Summary
-This role will be responsible for providing architectural and operational support to the corporate Identity and Access Management program in collaboration with other IT teams as well as hands-on administration of the enterprise Privileged Identity Management (PIM) platform, ensuring the organization meets its business objectives while ensuring appropriate security controls are present.
-This role is a technical, hands-on role, and the successful candidate will support the SME for PIM strategy in the organization. Experience with Microsoft ESAE architecture preferred.
+# Resumen
 
-# Baseline
+Este rol es responsable de proporcionar soporte arquitectónico y operativo al programa corporativo de gestión de identidad y acceso (IAM) en colaboración con otros equipos de TI, así como de la administración práctica de la plataforma empresarial de Gestión de Identidades Privilegiadas (PIM), asegurando que la organización cumpla sus objetivos de negocio con los controles de seguridad adecuados. Es un rol técnico y hands-on que, además, desarrolla productos de inteligencia y funciones de análisis de inteligencia en el espacio cibernético: combinar ciberinteligencia (threat intelligence) con inteligencia operativa para anticipar ataques.
 
-* 
+En 2026, este rol suele estar separado en dos vertientes: analista de ciberinteligencia (CTI) y especialista IAM/PIM. Aquí se mantiene la descripción integrada del rol.
 
+# Requisitos previos
 
-# Hard Skills
-* Develop intelligence products and performs expansive cyberspace intelligence analyst duties
-* Experience with Domaintools, Maltego, Security Incident Event Management, Host Based Security System (HBSS), Firewall, Bro IDS, and Snort
-* Experience with Cyber Security in a Joint and Coalition Partner environment
-* Possess a thorough understanding of intelligence analytic concepts to monitor, assess, defend and report on cyberspace operations, capabilities, and vulnerabilities
-* Develop reports and briefings
-* Track and report Cyber Security threats, events and incidents.
-* Apply a wide range of intelligence analytic skills to monitor, assess, and report on cyberspace operations, capabilities, vulnerabilities, and personalities that could pose a threat to US computers, communications, weapon systems, and operations
-* Review current intelligence for relevant threats and develop appropriate actions/response.
-* Analyze vulnerabilities with known exploits that do not have vendor-provided mitigation or remediation action
-* Conduct real-time threat analysis for USCENTCOM Headquarters through multiple situational awareness and management tools.
-* Conduct research that focuses on rapidly emerging cyber threats and cyber adversary Tactics, Techniques, and Procedures (TTPs)
+* Experiencia con programas de identidad y acceso, o análisis de inteligencia de amenazas
+* Conocimientos de seguridad de redes y sistemas
 
+# Habilidades técnicas
 
-# Soft Skills
-* The ability to learn quickly and an understanding of technical systems
+* Desarrollar productos de inteligencia y realizar tareas amplias de analista de inteligencia en el espacio cibernético.
+* Experiencia con DomainTools, Maltego, SIEM (Splunk, Sentinel), Host Based Security System (HBSS), firewalls, Bro/Zeek IDS y Snort.
+* Experiencia en ciberseguridad en un entorno conjunto y de socios de coalición.
+* Comprensión profunda de los conceptos analíticos de inteligencia para monitorizar, evaluar, defender e informar sobre operaciones, capacidades y vulnerabilidades del ciberespacio.
+* Desarrollar informes y briefings ejecutivos.
+* Rastrear e informar sobre amenazas, eventos e incidentes de ciberseguridad.
+* Aplicar una amplia gama de habilidades analíticas de inteligencia para monitorizar, evaluar e informar sobre operaciones, capacidades, vulnerabilidades y personalidades del ciberespacio que puedan representar una amenaza.
+* Revisar la inteligencia actual para detectar amenazas relevantes y desarrollar acciones/respuestas adecuadas.
+* Analizar vulnerabilidades con exploits conocidos que no tienen mitigación o remediación proporcionada por el proveedor.
+* Realizar análisis de amenazas en tiempo real mediante múltiples herramientas de conciencia situacional y gestión.
+* Investigar los ciberataques y las TTPs (tácticas, técnicas y procedimientos) de los adversarios de rápida evolución.
+* Conocimiento de fuentes de inteligencia (Open Source Intelligence - OSINT, dark web, feeds MISP/STIX-TAXII) y del proceso de inteligencia (recolección, análisis, producción, diseminación).
+* En la vertiente IAM/PIM: administración de plataformas de gestión de identidades privilegiadas (CyberArk, Delinea/Thycotic, BeyondTrust) y experiencia con arquitectura ESAE de Microsoft (preferida).
 
+# Habilidades blandas
 
-# Education
-  * Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience
+* Capacidad de aprender rápidamente y comprensión de los sistemas técnicos.
+* Excelente comunicación escrita y habilidades para presentar inteligencia accionable a audiencias técnicas y ejecutivas.
 
+# Educación
 
-# Certification
-  * SEC460
-  * SEC599
-  * FOR508
-  * FOR578
+  * Grado en Ciencias de la Computación, Ingeniería Informática, Ingeniería Eléctrica o experiencia equivalente.
 
+# Certificaciones
 
-# Job Salary
+  * GCTI (SANS/GIAC, Cyber Threat Intelligence)
+  * CTIA (EC-Council, Certified Threat Intelligence Analyst)
+  * OSCP — no más waiver CISSP desde abril 2026, pero sigue siendo valiosa en CTI ofensivo
+  * ISACA CDPSE o Microsoft SC-300 (IAM) si la vertiente es identidad
+
+# Salario por región (2026)
+
+Cifras anuales brutas aproximadas `P25 <= Mediana <= P75`.
 
 ## Asia
-$48K <= $59K <= $71K
+$50K <= $75K <= $110K
 
+## África
+$35K <= $50K <= $80K
 
-## Africa
-$32K <= $41K <= $65K
+## Norteamérica
+$90K <= $125K <= $175K
 
+## Sudamérica
+$48K <= $70K <= $100K
 
-## North America
-$53K <= $34K <= $116K
+## Europa
+€45K <= €65K <= €95K
 
+## Oceanía
+AU$80K <= AU$105K <= AU$145K
 
-## South America
-$34K <= $44K <= $89K
+# Preguntas de entrevista
 
+ * Preguntas de analista de ciberseguridad (Dice): https://insights.dice.com/cybersecurity-analyst-interview-questions/
+ * Preguntas de threat intelligence: https://www.sans.org/blog/what-is-cyber-threat-intelligence/
 
-## Europe
-£39,624 <= £54,999 <= £66,499
- 
+# Recursos de formación
 
-## Oceania
-AU$53K <= AU$92,990 <= AU$105K
-
-
-# Interview Questions
- * https://insights.dice.com/2020/04/22/cybersecurity-analyst-interview-questions-4-prep-considerations/
-
-
-# Training Resources
-  * 
-
-
-
+  * Guías y cursos de MISP (plataforma de intercambio de inteligencia): https://www.misp-project.org/
+  * Colecciones CTI de OpenCTI: https://www.opencti.io/
+  * Recursos de Recorded Future (blog y cursos): https://www.recordedfuture.com/resources

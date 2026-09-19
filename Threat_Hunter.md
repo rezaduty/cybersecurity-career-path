@@ -1,76 +1,75 @@
-# Summary
-You will hunt for cyber threats in our networks using our suite of cyber tools. You will use your understanding of attack vectors to seek out threats looking to exploit those networks to gain unauthorized access to our sensitive data. This position requires creative thinkers who are able to develop and field new methods for detecting malicious activity. This is an opportunity to take a new approach to cyber defense and help us build a world class threat detection organization.
+# Resumen
 
-# Baseline
+El cazador de amenazas (threat hunter) busca ciberamenazas en las redes de la organización utilizando un conjunto de herramientas. Usa su conocimiento de los vectores de ataque para localizar adversarios que intentan explotar esas redes con el fin de obtener acceso no autorizado a los datos sensibles. Este puesto requiere pensamiento creativo para desarrollar y desplegar nuevos métodos de detección de actividad maliciosa: es un enfoque proactivo de la ciberdefensa (hipótesis basadas en MITRE ATT&CK) frente al enfoque reactivo de un SOC.
 
-* 
+# Requisitos previos
 
-# Hard Skills
-* Windows/AD file systems, registry functions, and memory artifacts
-* Unix/Linux file systems and memory artifacts
-* Mac file systems and memory artifacts
-* Database, web application, cloud, and/or mobile device cyber incident response principles and techniques
-* Cybersecurity automation
-* Security Information and Event Monitoring (SIEM) utilities (e.g. Splunk, QRadar, etc.)
-* Application, service, and machine log analysis
-* Common application-layer protocols (e.g. DNS, HTTP, TLS, SMB)
-* Network traffic metadata extraction and analysis using common packet capture utilities (e.g. Wireshark, tcpdump, Bro/Zeek, Snort, Suricata, etc.)
-* Malware analysis using sandboxes or other capabilities
-* Knowledge of Advanced Persistent Threat (APT) actors and associated tools, techniques, and procedures (TTPs)
-* Experience with open-source and proprietary Cyber Threat Intelligence data, to include the use of threat taxonomies, models (e.g. MITRE ATT&CK), and Indicators of Compromise (IOCs)
-* Experience with one or more scripting language (Bash, Python, Perl, PowerShell, etc.)
-* Experience managing cases with enterprise SIEM or Incident Management systems
+* Experiencia previa en SOC o respuesta a incidentes (muy recomendable)
+* Conocimientos sólidos de sistemas operativos, redes y detección
 
+# Habilidades técnicas
 
+* Sistemas de archivos, funciones de registro y artefactos de memoria de Windows/Active Directory.
+* Sistemas de archivos, artefactos de memoria Unix/Linux.
+* Sistemas de archivos y artefactos de memoria de macOS.
+* Principios y técnicas de respuesta a incidentes de bases de datos, aplicaciones web, cloud y/o dispositivos móviles.
+* Automatización de ciberseguridad.
+* Utilidades SIEM (Splunk, Microsoft Sentinel, QRadar, Elastic/ELK, CrowdStrike, Panther).
+* Análisis de logs de aplicaciones, servicios y máquinas.
+* Protocolos comunes de capa de aplicación (DNS, HTTP, TLS, SMB).
+* Extracción y análisis de metadatos de tráfico de red con utilidades de captura de paquetes (Wireshark, tcpdump, Zeek (Bro), Suricata, Snort).
+* Análisis de malware en sandboxes u otras capacidades.
+* Conocimiento de actores de Amenazas Persistentes Avanzadas (APT) y sus TTPs (técnicas, tácticas y procedimientos).
+* Experiencia con datos de inteligencia de ciberamenazas de código abierto y propietarios: taxonomías de amenazas, modelos (MITRE ATT&CK) e Indicadores de Compromiso (IOCs).
+* Experiencia con uno o más lenguajes de scripting (Bash, Python, Perl, PowerShell, KQL, Sigma, YARA).
+* Experiencia gestionando casos con SIEM empresarial o sistemas de gestión de incidentes.
+* Diseño de detecciones y emulación/validación de detecciones (skill clave diferenciadora en 2026).
 
+# Habilidades blandas
 
+* Fuertes habilidades de pensamiento crítico.
+* Fuertes habilidades interpersonales con capacidad de comunicar problemas técnicos a personal no técnico.
 
-# Soft Skills
-* Strong critical thinking skills
-* Strong interpersonal skills with the ability to communicate technical issues to non-technical staff
+# Educación
 
+  * Grado en Ciencias de la Computación, Ingeniería Informática, Ingeniería Eléctrica o experiencia equivalente.
 
-# Education
-  * Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience
+# Certificaciones
 
+  * eCTHP (INE, Certified Threat Hunting Professional)
+  * GCTI (GIAC, Cyber Threat Intelligence) o GNFA (Redes Forenses)
+  * GCFA / GCFR (GIAC, Forensia y Respuesta)
+  * (En 2026) el Certified CyberDefender (CCD) Nivel 2, orientado a threat hunting/DFIR, está ganando tracción.
 
-# Certification
-  * eCTHP
+# Salario por región (2026)
 
-
-# Job Salary
-
+Cifras anuales brutas aproximadas `P25 <= Mediana <= P75`.
 
 ## Asia
-$39K <= $59K <= $85K
+$50K <= $72K <= $100K
 
+## África
+$35K <= $50K <= $75K
 
-## Africa
-$25K <= $32K <= $43K
+## Norteamérica
+$95K <= $130K <= $180K
 
+## Sudamérica
+$45K <= $65K <= $95K
 
-## North America
-$45K <= $69K <= $102K
+## Europa
+€48K <= €68K <= €100K
 
+## Oceanía
+AU$85K <= AU$110K <= AU$155K
 
-## South America
-$35K <= $54K <= $79K
+# Preguntas de entrevista
 
+ * Preguntas de threat hunting (InfoSec Institute, lista revisada): https://www.infosecinstitute.com/career-profiles/threat-hunting/
+ * Blog de Threat Hunting de SANS: https://www.sans.org/blog/what-is-threat-hunting/
 
-## Europe
-£36,624 <= £41,999 <= £63,499
- 
+# Recursos de formación
 
-## Oceania
-AU$78K <= AU$85,990 <= AU$99K
-
-
-# Interview Questions
- * https://resources.infosecinstitute.com/top-31-threat-hunting-interview-questions-and-answers-for-2019/
-
-
-# Training Resources
-  * 
-
-
-
+  * Matriz de MITRE ATT&CK y guías de hunting: https://attack.mitre.org/
+  * CyberDefenders (práctica forense y de hunting): https://cyberdefenders.org/
+  * Blog de ThreatHunting (teoría y casos): https://threathunting.splunk.com/

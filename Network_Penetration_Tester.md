@@ -1,75 +1,74 @@
-# Summary
-A penetration test, colloquially known as a pen test, pentest or ethical hacking, is an authorized simulated cyberattack on a computer system, performed to evaluate the security of the system. Not to be confused with a vulnerability assessment.
+# Resumen
 
+Una prueba de penetración, conocida coloquialmente como pentest o hacking ético, es un ciberataque simulado y autorizado contra un sistema informático, realizado para evaluar la seguridad del sistema. No debe confundirse con una evaluación de vulnerabilidades: el pentest busca **explotar** las vulnerabilidades, no solo listarlas.
 
+# Requisitos previos
 
-# Baseline
+* Conocimientos sólidos de redes (TCP/IP, OSI, protocolos de aplicación) y sistemas operativos
+* Dominio de al menos un sistema operativo (Linux/Kali o Windows) y fundamentos de scripting
 
-* 
+# Habilidades técnicas
 
+* Dominio en el uso e interpretación de resultados de herramientas comunes de seguridad, incluidas, entre otras: Burp Suite, Nessus, OpenVAS, Scapy, Wireshark, Nmap (con opciones avanzadas), SQLMap, SSLyze, BeEF, BloodHound, impacket, CrackMapExec/NetExec y otras herramientas de Kali Linux y Parrot OS.
+* Familiaridad con los esquemas de clasificación estándar de la industria: CVE, CVSS, CWE, CAPEC.
+* Conocimientos prácticos de nivel básico a intermedio de Unix, Linux, Windows, dispositivos de red, firewalls y desarrollo de aplicaciones web y/o móviles.
+* Capacidad para programar al menos en un lenguaje de scripting: Python, Ruby, Perl, PowerShell o scripting de plugins de Burp Suite.
+* Disposición para desarrollar herramientas o scripts propios con el fin de crear pruebas de concepto en compromisos complejos.
+* Mentalidad analítica para analizar y verificar hallazgos de herramientas de seguridad.
+* Disposición para realizar investigación de seguridad para descubrir vulnerabilidades ocultas críticas.
+* Motivación constante para explorar nuevas tecnologías, aprender nuevas técnicas y herramientas de pentesting y evadir controles de seguridad de aplicaciones reforzadas.
+* Buenos conocimientos de contenedores (Docker) y redes en la nube (AWS, Azure, GCP), cada vez más demandados en 2026.
 
-# Hard Skills
-* Being skilful in using and interpreting results from common security tools including but not limited to Burp Suite, Nessus, OpenVAS, Yersinia, Scapy, Wireshark, Nmap (with advanced options), SQLMap, SSLyze, THC-IPV6, BeEF and other tools in PenToo or Kalinux distro.
-* Familiarity with industry standard classification schemes such as CVE, CVSS, CWE, CAPEC.
-* Experience with basic to intermediate working knowledge of Unix, Linux, Windows, network devices, firewalls, web and/or mobile application developments.
-* Be able to code at least in one scripting language: Ruby, Python, Perl or Burp Suite Plugin Scripting.
-* Willing to develop tools or scripts as necessary so as to create proof-of-concept in challenging engagements.
-* Possess strong analytical mind in analysing, and verifying findings from security tools.
-* Willing to conduct security research as necessary to discover critical hidden vulnerabilities.
-* Possess relentless self-motivation and passion to explore new technologies, learn new penetration testing techniques and tools, and circumvent security controls imposed in hardened applications.
-* Possess good interpersonal communication skills and helping mind in team-oriented environment.
+# Habilidades blandas
 
+* Excelentes habilidades de presentación y comunicación para interactuar eficazmente con la dirección y los clientes.
+* Capacidad para articular conceptos complejos con claridad (por escrito y verbalmente).
+* Capacidad de escucha activa (especialmente con los clientes).
 
-# Soft Skills
-* Excellent presentation and communications skills to effectively communicate with management and customers.
-* Ability to clearly articulate complex concepts (both written and verbally).
-* Ability, understanding, and usage of active listening skills (especially with customers!).
+# Educación
 
+  * Grado en Ciencias de la Computación, Ingeniería Informática, Ingeniería Eléctrica o experiencia equivalente.
+  * (Opcional) Cursos enfocados en pentest: fundaciones de OffSec (PEN-200), eLearnSecurity/INE y CREST.
 
-# Education
-  * Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering or equivalent experience
+# Certificaciones
 
+  * eJPT (incluye laboratorio 100 % práctico, ideal para empezar)
+  * PNPT (práctica orientada a entornos empresariales realistas)
+  * OSCP — estándar de oro en 2026 (examen práctico de 24 h, validez vitalicia, prima salarial ~10-20 K USD)
+  * CREST CRT / CCT (muy valoradas en Reino Unido y empresas acreditadas CREST)
+  * CompTIA PenTest+ (nivel inicial)
 
-# Certification
-  * CEH
-  * eJPT
-  * OSCP
-  * PNPT
+# Salario por región (2026)
 
-
-# Job Salary
-
+Cifras anuales brutas aproximadas `P25 <= Mediana <= P75`.
 
 ## Asia
-$39K <= $71K <= $98K
+$35K <= $58K <= $95K
 
+## África
+$25K <= $40K <= $68K
 
-## Africa
-$29K <= $41K <= $67K
+## Norteamérica
+$78K <= $108K <= $150K
 
+## Sudamérica
+$32K <= $50K <= $82K
 
-## North America
-$45K <= $69K <= $102K
+## Europa
+€38K <= €55K <= €85K (Reino Unido: £30K <= £48K <= £75K)
 
+## Oceanía
+AU$70K <= AU$95K <= AU$135K
 
-## South America
-$34K <= $51K <= $79K
+# Preguntas de entrevista
 
+* Repositorio de preguntas de entrevista ofensivas: https://github.com/WebBreacher/offensiveinterview
+* Preguntas de pentest de redes (conceptos y metodología): https://www.synopsys.com/blogs/software-security/penetration-testing-interview-questions/ (razonamiento de alto valor en 2026)
+* Lista de preguntas de seguridad ofensiva de Daniel Miessler: https://danielmiessler.com/blog/security-interview-questions/
 
-## Europe
-£45,624 <= £69,999 <= £82,499
- 
+# Recursos de formación
 
-## Oceania
-AU$39K <= AU$54,990 <= AU$77K
-
-
-# Interview Questions
- * https://compsecurityconcepts.wordpress.com/2016/02/19/network-penetration-testing-interview-questions-answers/
-
-
-# Training Resources
-  * https://start.me/p/X2K4oB/network
-
-
-
+  * Academia Web de PortSwigger (laboratorios prácticos gratuitos): https://portswigger.net/web-security
+  * Plataforma de práctica Hack The Box: https://www.hackthebox.com/
+  * Plataforma de aprendizaje TryHackMe: https://tryhackme.com/
+  * Guía de metodología de pentest de OWASP WSTG: https://owasp.org/www-project-web-security-testing-guide/

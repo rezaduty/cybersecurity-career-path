@@ -1,61 +1,72 @@
-# Summary
-A Security Automation Engineer is required to design and implement automation workflows to enhance incident response, threat hunting, fraud, and insider risk management, as well as vulnerability management processes. The role involves developing custom API integrations to improve SOAR (Security Orchestration, Automation, and Response) capabilities and scripting automation solutions to detect and prevent cyber threats. You will collaborate with security teams to tune solutions, administer SOAR platforms, and identify automation opportunities in cybersecurity processes.
+# Resumen
 
-# Baseline
-* 5+ years of experience in Cyber Security, Incident Response, Information Security, or related fields
-* Strong coding/scripting experience, especially in Python or similar languages
-* Hands-on experience with SIEM platforms, firewalls, IPS/IDS, and endpoint security solutions
-* Familiarity with threat intelligence platforms (TIP) and integrating IOCs into workflows
-* Experience with Windows, Linux, and Apple environments
+Un Ingeniero de Automatización de Seguridad diseña e implementa flujos de trabajo de automatización para mejorar la respuesta a incidentes, el threat hunting, el fraude y la gestión de riesgo interno, así como los procesos de gestión de vulnerabilidades. El rol implica desarrollar integraciones API personalizadas para mejorar las capacidades de SOAR (Security Orchestration, Automation, and Response) y soluciones de scripting de automatización para detectar y prevenir ciberamenazas. Colaborará con los equipos de seguridad para ajustar soluciones, administrar plataformas SOAR e identificar oportunidades de automatización en los procesos de ciberseguridad.
 
-# Hard Skills
-* Advanced experience in scripting and automation, with Python, Bash, or PowerShell
-* Expertise in SOAR platform administration, with a focus on content release management
-* Strong troubleshooting skills for tools such as Wireshark, forensic tools, and log analysis
-* Familiarity with API integrations for firewalls, SIEM, and TIP platforms
-* Advanced knowledge of incident response methodologies, threat hunting, and vulnerability management
-* Experience with security monitoring tools and techniques, including threat detection and prevention mechanisms
-* Knowledge of common security threats and vulnerabilities, as well as hands-on experience in mitigating them
+# Requisitos previos
 
-# Soft Skills
-* Excellent analytical and problem-solving skills
-* Strong communication skills, both written and verbal, with the ability to collaborate with cross-functional teams
-* Ability to mentor peers and security analysts in automation and incident response processes
+* 5+ años de experiencia en ciberseguridad, respuesta a incidentes, seguridad de la información o campos relacionados
+* Fuerte experiencia en codificación/scripting, especialmente Python o lenguajes similares
 
-# Education
-* Bachelor's degree in Computer Science, Information Systems, or a related field
+# Habilidades técnicas
 
-# Certification
+* Experiencia avanzada en scripting y automatización con Python, Bash o PowerShell.
+* Experiencia en administración de plataformas SOAR (Splunk SOAR, Cortex XSOAR, Microsoft Sentinel SOAR, Swimlane, Tines), con enfoque en la gestión del ciclo de lanzamiento de contenido.
+* Fuertes habilidades de troubleshooting para herramientas como Wireshark, herramientas forenses y análisis de logs.
+* Familiaridad con integraciones API para firewalls, SIEM y plataformas TIP.
+* Conocimiento avanzado de metodologías de respuesta a incidentes, threat hunting y gestión de vulnerabilidades.
+* Experiencia con herramientas y técnicas de monitorización de seguridad, incluidos mecanismos de detección y prevención de amenazas.
+* Conocimiento de amenazas y vulnerabilidades de seguridad comunes, así como experiencia práctica en su mitigación.
+* (2026) Familiaridad con seguridad en nuevas tecnologías: automatización de IA/LLM para triage y respuesta, YARA-Sigma-remmediations, OpenAPI/Swagger para integraciones.
+
+# Habilidades blandas
+
+* Excelentes habilidades analíticas y de resolución de problemas.
+* Fuertes habilidades de comunicación, tanto escritas como verbales, con capacidad de colaborar con equipos multifuncionales.
+* Capacidad de asesorar a compañeros y analistas de seguridad en automatización y procesos de respuesta a incidentes.
+* Pensamiento de ingeniería: priorizar la fiabilidad (idempotencia, validación, pruebas de las automatizaciones).
+
+# Educación
+
+* Grado en Ciencias de la Computación, Sistemas de Información o un campo relacionado.
+
+# Certificaciones
+
 * GIAC Security Automation Engineer (GCSA)
-* Certified Information Systems Security Professional (CISSP)
-* CompTIA Cybersecurity Analyst (CySA+)
+* CISSP (ISC2)
+* CompTIA CySA+
+* (Útil) Splunk SOAR / Cortex XSOAR specific certifications
 
-# Job Salary
+# Salario por región (2026)
+
+Cifras anuales brutas aproximadas `P25 <= Mediana <= P75`.
 
 ## Asia
-$50K <= $70K <= $85K
+$55K <= $75K <= $100K
 
-## Africa
-$30K <= $45K <= $60K
+## África
+$35K <= $50K <= $70K
 
-## North America
-$80K <= $120K <= $160K
+## Norteamérica
+$110K <= $145K <= $190K
 
-## South America
-$35K <= $55K <= $70K
+## Sudamérica
+$45K <= $65K <= $90K
 
-## Europe
-€55K <= €70K <= €90K
+## Europa
+€50K <= €70K <= €100K
 
-## Oceania
-AU$75K <= AU$100K <= AU$135K
+## Oceanía
+AU$85K <= AU$110K <= AU$150K
 
-# Interview Questions
-* What is your approach to automating threat detection workflows?
-* How do you ensure that security automation tools are effectively integrated into a SOAR platform?
-* Describe a situation where you identified and implemented an automation opportunity that improved security processes.
-* What programming languages do you use to write automation scripts, and how have they helped in security operations?
+# Preguntas de entrevista
 
-# Training Resources
-* https://www.coursera.org/learn/automating-real-world-tasks-with-python
-* https://www.udemy.com/course/security-automation-and-orchestration/
+* ¿Cuál es tu enfoque para automatizar flujos de detección de amenazas?
+* ¿Cómo te aseguras de que las herramientas de automatización de seguridad estén efectivamente integradas en una plataforma SOAR?
+* Describe una situación en la que identificaste e implementaste una oportunidad de automatización que mejoró los procesos de seguridad.
+* ¿Qué lenguajes de programación usas para escribir scripts de automatización y cómo te han ayudado en las operaciones de seguridad?
+
+# Recursos de formación
+
+* Curso de automatización con Python (Coursera, Automating Real-World Tasks): https://www.coursera.org/learn/automating-real-world-tasks-with-python
+* Curso de SOAR de Splunk: https://www.splunk.com/en_us/software/soar.html ; Cortex XSOAR: https://www.paloaltonetworks.com/cortex/cortex-xsoar
+* Tines (automatización low-code de seguridad): https://www.tines.com/
